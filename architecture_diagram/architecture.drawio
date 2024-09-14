@@ -1,20 +1,44 @@
 <mxfile host="65bd71144e">
     <diagram id="V0VOoLRlusNepADvZFyu" name="Page-1">
-        <mxGraphModel dx="911" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="633" dy="260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="3" value="API Endpoints" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="290" y="10" width="120" height="60" as="geometry"/>
+                <mxCell id="8" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="68">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="475" y="100" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
-                <mxCell id="4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="300" y="140" width="120" height="60" as="geometry"/>
+                <mxCell id="9" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.463;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3" target="66">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="280" y="100" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
-                <mxCell id="5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="40" y="140" width="120" height="60" as="geometry"/>
+                <mxCell id="10" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="70">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="670" y="100" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
-                <mxCell id="6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="570" y="140" width="120" height="60" as="geometry"/>
+                <mxCell id="3" value="API Endpoints" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="415" y="10" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="Installs" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="100" width="160" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="+campaign_name : string&#10;+installed_at : string&#10;+network_name : string&#10;+user_id : string" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="66">
+                    <mxGeometry y="30" width="160" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="Events" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="395" y="100" width="160" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="+ad_revenue : double&#10;+ad_type: string&#10;+event_ts: string&#10;+user_id: string" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="68">
+                    <mxGeometry y="30" width="160" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="Costs" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="100" width="160" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="+campaign_name: string&#10;+cost: double&#10;+creative_name: string&#10;+date: string&#10;+network_name: string" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="70">
+                    <mxGeometry y="30" width="160" height="90" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
