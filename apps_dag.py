@@ -18,7 +18,8 @@ dag = DAG(
     'mali_prediction_new',
     default_args=default_args,
     description='A DAG for APPS Data Engineering Case',
-    schedule_interval='@daily'
+    schedule_interval='0 12 * * *',
+    
 )
 
 PATH_TO_INSTALL = '/output/installs.json'
