@@ -6,40 +6,46 @@ json_events = "C:/Users/mehme/Desktop/Apps_Interview/apps_case_study/api_respons
 json_cost = "C:/Users/mehme/Desktop/Apps_Interview/apps_case_study/api_response/response_cost.json"
 
 # Read Installs response file
-df = pd.read_json(json_installs)
+install_df = pd.read_json(json_installs)
 
 # Display the columns
 print("\nInstalls structure:")
-print(df.columns)
-print("Length of Installs:", len(df))
+print(install_df.columns)
+print("Length of Installs:", len(install_df))
 
 # Display the first 5 rows
 print("Installs data example:")
-print(df.head())
+print(install_df.head())
 
 # Read Events response file
-df = pd.read_json(json_events)
+events_df = pd.read_json(json_events)
 
 # Display the columns
 print("\nEvents structure:")
-print(df.columns)
-print("Length of Events:", len(df))
+print(events_df.columns)
+print("Length of Events:", len(events_df))
 
 # Display the first 5 rows
 print("Events data example:")
-print(df.head())
+print(events_df.head())
 
 print("Distinct events names:")
-print(df.event_name.unique())
+print(events_df.event_name.unique())
 
 # Read Cost response file
-df = pd.read_json(json_cost)
+cost_df = pd.read_json(json_cost)
 
 # Display the columns
 print("\nCosts structure:")
-print(df.columns)
-print("Length of Costs:", len(df))
+print(cost_df.columns)
+print("Length of Costs:", len(cost_df))
 
 # Display the first 5 rows
 print("Costs data example:")
-print(df.head())
+print(cost_df.head())
+
+# Display distinct Network Names in Cost
+print(cost_df.network_name.unique())
+
+# Display distinct Network Names in Installs
+print(install_df.network_name.unique())
