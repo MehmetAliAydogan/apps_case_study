@@ -9,7 +9,7 @@ json_cost = "C:/Users/mehme/Desktop/Apps_Interview/apps_case_study/api_response/
 df = pd.read_json(json_installs)
 
 # Display the columns
-print("Installs structure:")
+print("\nInstalls structure:")
 print(df.columns)
 print("Length of Installs:", len(df))
 
@@ -21,7 +21,7 @@ print(df.head())
 df = pd.read_json(json_events)
 
 # Display the columns
-print("Events structure:")
+print("\nEvents structure:")
 print(df.columns)
 print("Length of Events:", len(df))
 
@@ -29,11 +29,14 @@ print("Length of Events:", len(df))
 print("Events data example:")
 print(df.head())
 
+print("Distinct events names:")
+print(df.event_name.unique())
+
 # Read Cost response file
 df = pd.read_json(json_cost)
 
 # Display the columns
-print("Costs structure:")
+print("\nCosts structure:")
 print(df.columns)
 print("Length of Costs:", len(df))
 
