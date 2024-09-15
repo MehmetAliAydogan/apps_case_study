@@ -1,3002 +1,3002 @@
 [
   {
-    "user_id": "1e2fe400-bde6-43c5-833e-465882d7fde5",
-    "installed_at": "2024-09-13 12:15:59.243903",
+    "user_id": "d7bc99e5-2380-42bd-afeb-4dc8f8041c31",
+    "installed_at": "2024-09-14 23:15:04.449585",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "8984ea05-3968-49f1-9238-0c24db9eee2c",
+    "installed_at": "2024-09-14 05:22:54.436332",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "170b2d2a-3212-43e4-a316-0f4b4e9ceac1",
+    "installed_at": "2024-09-14 02:09:37.144891",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "992f22b7-05c5-4552-8e9f-47719260c5cf",
-    "installed_at": "2024-09-13 14:21:39.043166",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "263f9623-37a4-4009-b7b2-3c6e8649a60e",
-    "installed_at": "2024-09-13 09:16:19.329459",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "6f191b40-25d2-48ad-83d1-285462e721e2",
-    "installed_at": "2024-09-13 17:37:45.027678",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "03bb75e8-711c-4638-87bb-3b78bc0bf4b8",
-    "installed_at": "2024-09-13 06:21:30.911618",
-    "network_name": "Google",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "a71ec6e2-7990-44ef-b849-1b2643d3619b",
-    "installed_at": "2024-09-13 19:16:23.197597",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "cd950cbd-484e-4c84-ad5f-7cd7cd4c8e1b",
-    "installed_at": "2024-09-13 23:21:15.243741",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "240fffd8-aad5-4c46-bc4f-740c23303223",
-    "installed_at": "2024-09-13 09:08:22.289744",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "c71466e1-a9df-412d-868d-8231f91d5e00",
-    "installed_at": "2024-09-13 01:38:05.520575",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "1291f36d-f499-4e78-aa18-5d4bbf3a0d18",
-    "installed_at": "2024-09-13 15:05:13.481677",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "5fa75436-6ea5-4e65-8971-e0cb617d48ee",
-    "installed_at": "2024-09-13 06:02:09.266894",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "df784c01-784d-4536-87cc-22d7117053eb",
-    "installed_at": "2024-09-13 07:31:41.996799",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "8e1dc576-62c9-44b9-a0ee-4239281848a8",
-    "installed_at": "2024-09-13 22:02:20.444398",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "eb7eb610-d3b2-4501-901f-09a12d5dc25a",
-    "installed_at": "2024-09-13 07:54:52.917452",
+    "user_id": "f3e1533a-164c-4e30-b608-4251e0d43318",
+    "installed_at": "2024-09-14 08:53:24.082911",
     "network_name": "ACME Installs",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "7aaa8c9c-d1bb-463a-8062-3dfc763979f8",
-    "installed_at": "2024-09-13 02:28:59.887492",
-    "network_name": "Google",
+    "user_id": "5ed3f87a-1669-4f4a-bc8f-c312d5887516",
+    "installed_at": "2024-09-14 02:48:52.844728",
+    "network_name": "ironSrc",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "a4ba9a3c-cd84-4c9b-904d-9ab1088d2e05",
-    "installed_at": "2024-09-13 23:01:10.329169",
-    "network_name": "Mintegral",
+    "user_id": "64d563aa-c62e-40ae-84e9-79a4a422da4a",
+    "installed_at": "2024-09-14 21:08:01.682912",
+    "network_name": "TikTok",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "a5393ec1-eb15-4496-ab95-e1c64fa11ea3",
-    "installed_at": "2024-09-13 01:51:47.887171",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
+    "user_id": "8f4ddd07-4006-4412-8c42-67741e060a1e",
+    "installed_at": "2024-09-14 13:25:56.399302",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "d58226aa-546c-47c4-8d0d-ac0026e49dcf",
-    "installed_at": "2024-09-13 13:57:52.229545",
+    "user_id": "8106c7d4-4c4a-4736-a16e-088f5bf2b499",
+    "installed_at": "2024-09-14 18:14:47.183836",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "8a62569b-1a7d-4618-bb18-3ab20b77c623",
-    "installed_at": "2024-09-13 20:05:14.084333",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "84053b98-7915-42e9-bb86-4c58f871e61b",
-    "installed_at": "2024-09-13 12:15:35.223693",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "f58b682b-53d3-4387-9125-a63dd0e0675f",
-    "installed_at": "2024-09-13 20:46:48.462937",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "c8309c40-3fdb-4190-b89a-376a3a8d3533",
-    "installed_at": "2024-09-13 14:44:58.748246",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "13e01d96-6115-4cd2-b8d1-ae6d9ae93afc",
-    "installed_at": "2024-09-13 18:52:13.485836",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "94f4dbdb-251e-4fe5-9db7-4b269aa396b6",
-    "installed_at": "2024-09-13 02:41:48.590455",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "d64434fd-59b5-4b3d-9b5a-5ffe1038c100",
-    "installed_at": "2024-09-13 16:23:25.722271",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "d07bba78-0728-4a4b-94ed-4dabe5277c78",
-    "installed_at": "2024-09-13 09:08:12.334205",
+    "user_id": "8f47a614-4be5-4c72-a4fa-e94afb655ffc",
+    "installed_at": "2024-09-14 18:19:25.382621",
     "network_name": "Google",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "82c5c597-08c1-48f3-b05b-6f66c025283f",
-    "installed_at": "2024-09-13 00:28:46.467983",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "b37b4be6-fe8e-48cf-98ce-0b0cfbad59f1",
-    "installed_at": "2024-09-13 12:10:18.025676",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "8041b433-05d3-4774-9da8-42e20b2c1e6c",
-    "installed_at": "2024-09-13 18:52:55.730824",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "9d54d98f-31cb-4fa8-ab59-e25d236fe477",
-    "installed_at": "2024-09-13 03:50:24.327350",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "c7bfaab7-af7d-43f4-8c2f-0fbfd874f0db",
-    "installed_at": "2024-09-13 20:44:22.869057",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "95c86447-c7d9-45f1-a223-2c7ebfdeeda2",
-    "installed_at": "2024-09-13 15:03:20.930052",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "a9090bd5-3e88-427c-8949-674841a39997",
-    "installed_at": "2024-09-13 23:19:07.229810",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "1cc43b13-1d31-4a59-8033-f205ea031580",
-    "installed_at": "2024-09-13 04:29:51.179734",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "61c1f5ec-c7b6-49bb-9f1a-755ad9146f21",
-    "installed_at": "2024-09-13 13:17:24.886885",
+    "user_id": "232fbbc2-a07d-4d37-ab74-4095ee8f1050",
+    "installed_at": "2024-09-14 16:31:10.307459",
     "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "2cde7ae7-8f5c-41f1-8916-2681aed5736a",
-    "installed_at": "2024-09-13 20:56:09.295316",
-    "network_name": "Google",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "7da7fb58-f738-40e6-a175-bbac7009cd80",
-    "installed_at": "2024-09-13 07:14:01.569835",
+    "user_id": "2a325a82-c2a1-45aa-8e52-f2b6fc56f1d9",
+    "installed_at": "2024-09-14 00:11:48.009014",
     "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
+    "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "6ad9d72a-b21e-4469-851d-92bd6d2e33f3",
-    "installed_at": "2024-09-13 01:10:50.842422",
+    "user_id": "4268e923-dbbf-4b2d-9513-578bcfd53432",
+    "installed_at": "2024-09-14 09:29:20.750163",
     "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "4ff7175a-81d5-4b34-90f8-083ba28cd91b",
-    "installed_at": "2024-09-13 02:26:02.950875",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "4e9b7ddd-c969-4286-81c9-092a5192b031",
-    "installed_at": "2024-09-13 03:21:19.437279",
-    "network_name": "Unity",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "28f62129-48df-471b-8d17-6ba3456886a9",
-    "installed_at": "2024-09-13 06:21:11.792170",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "61298ee6-ec57-4e31-a459-6f328f53b1b2",
-    "installed_at": "2024-09-13 19:26:25.517261",
-    "network_name": "Google",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "dd39d302-6ce1-4cfd-b450-4556dcb75f4c",
-    "installed_at": "2024-09-13 19:07:58.542258",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "1be7e7e5-7174-4518-b5fe-b50a2f77c0bd",
-    "installed_at": "2024-09-13 20:32:50.043845",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "2da54170-6405-40d1-bfb9-8124a098e286",
-    "installed_at": "2024-09-13 08:37:27.967623",
+    "user_id": "75c2fcf0-eb57-44c9-afc5-9b49c3748b02",
+    "installed_at": "2024-09-14 23:22:32.034542",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "2149d193-bc42-426a-813f-f944f8bc43e7",
-    "installed_at": "2024-09-13 19:34:35.287144",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "4f6c988a-2ff9-43b1-a58a-1f26fa8faaac",
-    "installed_at": "2024-09-13 19:46:04.282481",
+    "user_id": "d85d4f5e-ac2d-4d12-821f-16c5a3943da7",
+    "installed_at": "2024-09-14 15:46:54.481560",
     "network_name": "Unity",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "dada6bab-8dc3-471a-a528-0cbf29b8a05f",
-    "installed_at": "2024-09-13 09:14:14.666071",
-    "network_name": "Google",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "52ebc147-37eb-4db4-acae-76cbb6c8378f",
-    "installed_at": "2024-09-13 16:29:17.429188",
-    "network_name": "Google",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "094558b3-71c7-4993-a1c2-b8eadf51aaff",
-    "installed_at": "2024-09-13 18:19:06.302932",
+    "user_id": "1b2abef3-b035-4a1c-ba20-2f568e328f18",
+    "installed_at": "2024-09-14 07:38:15.487057",
     "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "9ec218cf-c4f3-4bb3-8a65-8fc64d293dc2",
-    "installed_at": "2024-09-13 00:14:11.854520",
-    "network_name": "ironSrc",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "c2fab4a7-e39f-464b-b8c3-41324ff5b381",
-    "installed_at": "2024-09-13 05:56:41.625764",
-    "network_name": "Google",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "8b541052-45ca-4665-8c98-61535d5b274b",
-    "installed_at": "2024-09-13 12:47:17.487985",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "19f6eff7-2e70-4328-a68e-019b6310db13",
-    "installed_at": "2024-09-13 23:42:02.905004",
+    "user_id": "a9b5a005-f61e-4205-8c84-d0779819b2c5",
+    "installed_at": "2024-09-14 17:40:58.734727",
     "network_name": "ironSrc",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "985efb3e-bba8-4b7f-b90a-50dde4ac523a",
-    "installed_at": "2024-09-13 01:56:49.453989",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "e2110502-d0e4-44fc-a3ca-952d2b712248",
-    "installed_at": "2024-09-13 11:34:35.240915",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "c3112f6f-2272-4cfd-9a16-ecb0c513160c",
-    "installed_at": "2024-09-13 11:15:23.788001",
+    "user_id": "3603a218-e9fd-4068-ba95-5d65373ccfd4",
+    "installed_at": "2024-09-14 12:39:15.005218",
     "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "43b1e136-9926-4ef0-83c4-e0e27ba788ba",
-    "installed_at": "2024-09-13 14:45:15.088949",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "cf5deccd-3ac8-4f7a-99d6-cc6bfc194d1f",
-    "installed_at": "2024-09-13 20:00:08.600150",
-    "network_name": "TikTok",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "cc164135-45cc-4e71-bc97-90b2fed54e33",
-    "installed_at": "2024-09-13 11:52:27.225752",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
+    "user_id": "4651e792-d0ad-4116-b295-2b2e02190b56",
+    "installed_at": "2024-09-14 04:43:26.622736",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "c5df4026-cf82-4bba-9ea7-7a2148d1acd1",
-    "installed_at": "2024-09-13 10:37:12.036597",
+    "user_id": "62fb3380-5fe2-46c7-a537-dc99368103dc",
+    "installed_at": "2024-09-14 01:46:28.334533",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "439afefa-f957-4d90-a495-cb39eaf1f6c0",
+    "installed_at": "2024-09-14 00:56:55.466643",
     "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "6ff78098-4c09-43eb-a5da-9f4f86405c3d",
-    "installed_at": "2024-09-13 05:50:24.899356",
-    "network_name": "ACME Installs",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "e43cb345-29bf-41e2-b9c9-f504db2c4c27",
-    "installed_at": "2024-09-13 21:59:55.589100",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "1eba1284-0d6b-461f-9bfe-bb300da1828e",
-    "installed_at": "2024-09-13 09:53:51.792038",
-    "network_name": "ACME Installs",
+    "user_id": "a85755cb-228c-49e3-997e-4e0a9f235119",
+    "installed_at": "2024-09-14 21:24:14.946222",
+    "network_name": "Google",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "0f97d653-d4fe-49eb-90d1-6dc20b91d504",
-    "installed_at": "2024-09-13 05:17:01.186828",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "380328a8-d2dc-4d0d-b4f6-ebb5fcdc423e",
-    "installed_at": "2024-09-13 05:07:19.361718",
+    "user_id": "824dd675-cdc1-4249-a29d-16696e9ce07f",
+    "installed_at": "2024-09-14 23:08:16.346022",
     "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
+    "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "70f71332-6288-426f-86f7-7bf42cf9436d",
-    "installed_at": "2024-09-13 08:17:30.844910",
+    "user_id": "b5f2e744-ee7a-4a70-9dd8-48d92af57f15",
+    "installed_at": "2024-09-14 18:06:12.371008",
     "network_name": "Vungle",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "c98961bd-afe0-4ae1-b791-a0d5731f7ff1",
-    "installed_at": "2024-09-13 04:50:02.756264",
+    "user_id": "517813dc-5ca1-4bcf-9595-b191d6735351",
+    "installed_at": "2024-09-14 12:20:24.440940",
     "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
+    "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "c366122c-49de-49f7-b2da-aef8ff32eec4",
-    "installed_at": "2024-09-13 02:38:45.483500",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "52a05998-617a-4436-864b-9b135400df83",
-    "installed_at": "2024-09-13 14:41:34.412182",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "44278776-8420-44b2-8016-33b6028627bb",
-    "installed_at": "2024-09-13 00:30:50.892034",
+    "user_id": "b321efe7-631a-4932-a2ea-75c0b748e612",
+    "installed_at": "2024-09-14 04:32:13.074094",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "7212300f-269b-4b00-bf69-b7be2aded9c0",
-    "installed_at": "2024-09-13 17:04:40.533123",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "8868b0f1-506a-434d-a050-2405d0f8ce27",
-    "installed_at": "2024-09-13 02:55:52.508111",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "c8f33f7b-dab3-4407-92d4-98d8e675b2ca",
-    "installed_at": "2024-09-13 04:41:41.907557",
+    "user_id": "286ae1ff-80cd-424a-8c3b-21fce1d46b87",
+    "installed_at": "2024-09-14 19:25:23.052606",
     "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "fccfc0b8-7d3b-4c2d-9027-92c8fa42f819",
-    "installed_at": "2024-09-13 15:35:08.734417",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "14c4dcad-7650-4da1-84fd-931543b2feb7",
-    "installed_at": "2024-09-13 04:09:12.190430",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "ae384e4b-e0d9-4f52-89f4-209cc5701551",
-    "installed_at": "2024-09-13 06:46:39.950667",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "0c942645-e82e-4df2-8cdf-5c56d0194494",
-    "installed_at": "2024-09-13 08:49:02.008277",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "0176b081-91b1-43ec-8744-b9a87b7bced5",
-    "installed_at": "2024-09-13 12:04:35.708750",
-    "network_name": "TikTok",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "fc876eab-7812-463c-8d3e-a878b01651f9",
-    "installed_at": "2024-09-13 16:21:51.332188",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "89ae35cc-9d61-4ea4-80fd-593c3dca2777",
-    "installed_at": "2024-09-13 09:39:31.916957",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "0af957f3-8c0c-413f-8fd4-097c06e49adb",
-    "installed_at": "2024-09-13 19:47:49.068358",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "8839460e-6bb4-45d4-be27-f76dd55c7d35",
-    "installed_at": "2024-09-13 03:24:55.529074",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "478cba42-7ea8-4019-9e89-e990c04ac69e",
-    "installed_at": "2024-09-13 23:08:16.468775",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "e3928ef4-cc1c-4a1a-86c1-d1a2ff76995e",
-    "installed_at": "2024-09-13 01:39:11.215676",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "777f68a2-e67f-43ef-b148-0b1c3c307901",
-    "installed_at": "2024-09-13 06:55:01.245953",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "0c02f048-45ec-4f0c-be4b-f5cf0bacdadc",
-    "installed_at": "2024-09-13 15:14:51.552366",
-    "network_name": "Google",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "c9276f1d-2af5-4d74-aaa8-04305c7efd0c",
-    "installed_at": "2024-09-13 04:09:49.500623",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "d4cb14e7-6993-4fcb-943a-9df41a8f7b7f",
-    "installed_at": "2024-09-13 14:15:21.276861",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "2eff5bbe-385c-46ee-8407-e91100d1faa1",
-    "installed_at": "2024-09-13 06:42:36.088333",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "f6383eb2-a720-4d05-bd12-93544a1312fd",
-    "installed_at": "2024-09-13 23:05:09.699473",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "e0257c77-36a2-4254-af0f-a98bb51e868f",
-    "installed_at": "2024-09-13 16:49:39.656131",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "d4df9b65-b8a8-424b-ab47-7524f2949414",
-    "installed_at": "2024-09-13 16:11:29.135249",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "207f068c-5872-4e45-97cd-c51194c1e923",
-    "installed_at": "2024-09-13 01:38:52.982657",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "208f6ee6-5c4f-438a-ab55-67c7fd7ac85a",
-    "installed_at": "2024-09-13 14:57:28.468618",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "6b7dbffe-9d0a-4914-b7b1-ef463390773e",
-    "installed_at": "2024-09-13 03:09:19.028852",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "aa4bd6c3-cd8c-46c5-9c39-56d707413fe9",
-    "installed_at": "2024-09-13 14:34:35.592370",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "bf93a9d0-8fb9-41d8-8178-034d5e6279ba",
-    "installed_at": "2024-09-13 23:53:54.525042",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "0e504fa6-2541-42cc-9cb9-db1725853632",
-    "installed_at": "2024-09-13 04:41:42.519856",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "d1cd47f5-f7dd-4cb7-857b-f3b336b67621",
-    "installed_at": "2024-09-13 06:51:15.427533",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "1e6f2aab-c195-4de3-b6c2-957ea21771df",
-    "installed_at": "2024-09-13 17:51:49.796175",
+    "user_id": "c4aa4e82-8f3b-49ed-b052-b036bc9ee340",
+    "installed_at": "2024-09-14 13:18:57.457498",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "1e26c147-b62a-49a2-9e1f-7337b9745fd8",
-    "installed_at": "2024-09-13 12:55:09.758252",
-    "network_name": "ironSrc",
+    "user_id": "86fab700-719a-4988-82bc-439195b5f9f9",
+    "installed_at": "2024-09-14 14:03:26.268103",
+    "network_name": "TikTok",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "efa4ab63-e620-4fbb-8b9f-45a4e279c59d",
-    "installed_at": "2024-09-13 02:17:51.969169",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "bf1d1188-7750-4299-9f44-5d817db7259c",
-    "installed_at": "2024-09-13 12:40:24.379747",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "32148ee9-3fb4-460c-8008-a763bc2c22b8",
-    "installed_at": "2024-09-13 08:34:50.923611",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "a6bedd49-dc82-462d-82e4-70f15476fc6d",
-    "installed_at": "2024-09-13 04:22:35.549200",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "a64001aa-7de7-4552-b45d-83db93a4b632",
-    "installed_at": "2024-09-13 03:05:56.819061",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "73628746-2479-4f6b-8d0d-1c43b8144215",
-    "installed_at": "2024-09-13 09:23:45.178858",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "c25931aa-91e4-4f7f-a55f-22db2c4da507",
-    "installed_at": "2024-09-13 18:34:55.493547",
+    "user_id": "3263fcd1-5985-4456-bb57-3818563bc97a",
+    "installed_at": "2024-09-14 09:36:19.304615",
     "network_name": "ACME Installs",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "484c075a-4531-4f1c-9da4-392c282204a8",
-    "installed_at": "2024-09-13 05:08:22.025708",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "6ddf0219-aaf8-447c-868c-8bf2aa7b8e20",
-    "installed_at": "2024-09-13 05:14:09.950670",
-    "network_name": "Google",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "ed1a841d-b56a-464b-a806-e8985e0d2e12",
-    "installed_at": "2024-09-13 17:19:10.444295",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "52f16d14-80d1-430c-8730-93320560ac3b",
-    "installed_at": "2024-09-13 04:59:34.397937",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "32d83c7c-ae8d-4a83-82dd-b2bc63a966c3",
-    "installed_at": "2024-09-13 15:45:11.871045",
+    "user_id": "c0fd8ab3-874a-471b-b515-44519475af67",
+    "installed_at": "2024-09-14 00:26:28.687089",
     "network_name": "Unity",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "0c3dbc9f-fd93-48de-af4e-e748450fe967",
-    "installed_at": "2024-09-13 21:50:21.046194",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "a897ae70-3a3d-43df-ade4-2860670772a7",
-    "installed_at": "2024-09-13 17:07:20.470081",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "e63569bb-4bfd-44e6-932b-88a85989d449",
-    "installed_at": "2024-09-13 10:10:35.738587",
-    "network_name": "Google",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "cd4d7694-e153-429b-b7e9-096357609d48",
-    "installed_at": "2024-09-13 22:55:34.437358",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "5677adf4-dee7-4157-8247-42dbd710ce4b",
-    "installed_at": "2024-09-13 19:26:31.535696",
-    "network_name": "Google",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "aeb5c357-12c9-4249-9e92-222d246e7e86",
-    "installed_at": "2024-09-13 12:53:51.906647",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "f6cea520-7dad-461d-a076-86bcac4ce23b",
-    "installed_at": "2024-09-13 06:15:12.454710",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "e3609352-06af-4c3b-8829-1811b9bd795c",
-    "installed_at": "2024-09-13 07:03:00.936853",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "32ca661a-ed6e-40c3-8e9c-82d28d10fe33",
-    "installed_at": "2024-09-13 04:16:10.264846",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "63bf9df6-2ccd-4268-bfa4-d69911a228dd",
-    "installed_at": "2024-09-13 17:57:27.642551",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "04f9a678-5e45-4465-8c7c-f23949c84659",
-    "installed_at": "2024-09-13 12:45:14.197086",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "fc3da830-7416-4746-95c8-8a31a2a4bda8",
-    "installed_at": "2024-09-13 22:59:08.859176",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "2f59f718-2c69-420f-9197-6582d571c0a6",
-    "installed_at": "2024-09-13 21:49:03.993442",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "e849dc76-601f-4393-b88d-423ee23b52ee",
-    "installed_at": "2024-09-13 03:21:58.049041",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "56e5274c-3466-41f6-9810-96e40fc5a69d",
-    "installed_at": "2024-09-13 12:19:40.330913",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "954ccb7e-54ee-4175-8793-0d6c5bfdd1ec",
-    "installed_at": "2024-09-13 09:20:26.643623",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "4060d851-ecd2-4c28-9f54-581df21440ac",
-    "installed_at": "2024-09-13 21:48:00.694310",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "6a4d6875-5b3f-422b-b640-f9d30cf8ccc2",
-    "installed_at": "2024-09-13 17:49:44.386726",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "680dbf0c-39fd-4828-b37f-52a859f1b6d0",
-    "installed_at": "2024-09-13 22:15:19.842831",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "052cf60a-b639-4238-acb5-e66572f3b81e",
-    "installed_at": "2024-09-13 02:48:27.186119",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "b30f6f88-9ba8-461b-bdfd-f8ccaaabe3d0",
-    "installed_at": "2024-09-13 10:26:25.167174",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "4fa6ce66-6951-4006-9194-54470bb672dd",
-    "installed_at": "2024-09-13 02:08:26.595796",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "6206dae0-9f8d-4887-91b5-bca3c422753b",
-    "installed_at": "2024-09-13 13:42:09.528057",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "4f48cec3-af81-4181-98fc-50ab949ff0f3",
-    "installed_at": "2024-09-13 08:21:40.724502",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "6289b831-64c3-4ffd-93b7-bf8d21a8222e",
-    "installed_at": "2024-09-13 05:46:56.170558",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "e2eda6db-ffd2-4e0b-af3e-22949b7c2b58",
-    "installed_at": "2024-09-13 03:10:30.456455",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "feeb892e-31d0-4edc-9947-eff44dc44194",
-    "installed_at": "2024-09-13 21:53:35.324163",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "e41e68c4-f506-41ba-98a5-8d974ee23143",
-    "installed_at": "2024-09-13 06:45:19.866629",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "838fbe20-3215-45d5-aaf6-51392a72988c",
-    "installed_at": "2024-09-13 13:00:07.613739",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "087e8298-491c-4c5a-b580-3b4701170349",
-    "installed_at": "2024-09-13 06:06:57.412135",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "2b3e08b0-de45-415d-9541-73f1289a3cf8",
-    "installed_at": "2024-09-13 22:36:44.131341",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "16c87d3c-d649-4351-a621-c831be8cbc66",
-    "installed_at": "2024-09-13 02:08:16.528014",
+    "user_id": "1d650ba2-12ed-49f9-8e08-f0b72306a4b3",
+    "installed_at": "2024-09-14 23:31:27.914666",
     "network_name": "Vungle",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "42e97d76-b6a4-40cd-89ce-ebc73a3c2f9f",
-    "installed_at": "2024-09-13 17:34:38.486347",
-    "network_name": "TikTok",
+    "user_id": "0a1eb99d-53fa-47d6-b1b5-6d368544d139",
+    "installed_at": "2024-09-14 03:44:13.039392",
+    "network_name": "ironSrc",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "188283a7-7e97-45f8-957a-daffd44ed3a0",
-    "installed_at": "2024-09-13 06:43:06.336918",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "e6f3d1c1-4724-41de-af7a-592f88a435fb",
-    "installed_at": "2024-09-13 19:16:40.536662",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "a2a44558-29c1-424e-872f-56761d6e8876",
-    "installed_at": "2024-09-13 21:19:27.637038",
+    "user_id": "e45047bb-4cbe-44d3-bdea-bd4526f677b8",
+    "installed_at": "2024-09-14 19:55:03.041639",
     "network_name": "Vungle",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "d8ceab33-5b87-4bd3-87a5-e2e703f8e064",
-    "installed_at": "2024-09-13 20:03:59.470662",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "ffa4eb08-2eaf-4391-a39d-4fc4340c6ee8",
-    "installed_at": "2024-09-13 12:40:55.025189",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "dd57803d-1983-474d-87d3-47f8e5e397e9",
-    "installed_at": "2024-09-13 15:02:32.203034",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "e9734078-b71f-492b-a10e-c0746d7e7f9d",
-    "installed_at": "2024-09-13 12:22:30.050498",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "404aada2-b282-4b87-9747-93cafb15f09b",
-    "installed_at": "2024-09-13 21:08:58.099637",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "9f6be6fe-53c2-42dd-b6ac-896564395257",
-    "installed_at": "2024-09-13 03:19:07.406179",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "cd426f61-b00a-4e81-8636-0eda4d19d720",
-    "installed_at": "2024-09-13 20:18:11.326005",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "1f4dd098-36d2-4ab3-8e1f-ecd00ef7e9d1",
-    "installed_at": "2024-09-13 04:55:14.558904",
-    "network_name": "Google",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "5c43d737-3ea2-4fb0-89d2-f0ac8da9fad2",
-    "installed_at": "2024-09-13 03:11:06.489399",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "c37c8b73-70c6-4831-bdea-b8ac37da33ac",
-    "installed_at": "2024-09-13 20:10:11.810613",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "780cd2c7-8211-45c8-96b1-1a1eed6ec1c0",
-    "installed_at": "2024-09-13 08:00:48.423500",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "87f2c628-1938-4af0-b991-0749b8be839d",
-    "installed_at": "2024-09-13 16:21:30.852798",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "6cc85817-3542-425a-a05a-2b9083e3a370",
-    "installed_at": "2024-09-13 03:54:14.452284",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "ed4c03e9-b69b-4a31-876e-b100fb2abd00",
-    "installed_at": "2024-09-13 00:24:42.882584",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "59b249da-a1f1-4170-9368-8b82cd887c62",
-    "installed_at": "2024-09-13 08:16:20.746252",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "b33f533e-a809-409a-9ad5-899cdd6a6670",
-    "installed_at": "2024-09-13 22:39:08.762104",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "2a211d64-8962-433e-a8d5-52cab1d603f2",
-    "installed_at": "2024-09-13 11:28:21.259665",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "31f7e872-3414-4c44-804a-174be8f435b7",
-    "installed_at": "2024-09-13 15:02:09.421129",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "4e7aee72-ed08-4b21-a8eb-82a7b6a3fab0",
-    "installed_at": "2024-09-13 09:26:53.029610",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "8ee8f228-6c8d-452c-9ea1-ed26d5cc40de",
-    "installed_at": "2024-09-13 02:05:30.395060",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "b79d9f19-8f60-4789-96cd-60b97bc01640",
-    "installed_at": "2024-09-13 18:56:06.592778",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "6c8d8620-f48c-4fba-a00f-9cc4bdadd968",
-    "installed_at": "2024-09-13 14:41:28.079483",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "6b095a1b-cf62-4d8a-93d9-424f204c8e5b",
-    "installed_at": "2024-09-13 13:32:03.772044",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "0e1e54e8-8993-4e7e-9919-19b977d706f6",
-    "installed_at": "2024-09-13 00:26:04.775534",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "d2d4d7b0-42b4-4fab-9993-38610c6828b9",
-    "installed_at": "2024-09-13 18:39:42.656538",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "e05f1ff9-bbc4-4add-a94e-13eb97306a9a",
-    "installed_at": "2024-09-13 16:31:31.143546",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "4b34222d-1367-438e-91cc-15f13925dffa",
-    "installed_at": "2024-09-13 12:27:44.735921",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "2d8ac3f2-6c6a-40e6-a5bb-56ab4c273d47",
-    "installed_at": "2024-09-13 13:47:33.366096",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "49ac1293-92db-4a0b-a960-b043a97dec28",
-    "installed_at": "2024-09-13 17:54:37.375491",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "6acf1501-926c-4d89-8cbe-962fbf8d0073",
-    "installed_at": "2024-09-13 09:17:06.085463",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "f04873a8-880b-4be4-8496-0f9fd093a9c0",
-    "installed_at": "2024-09-13 03:59:53.899176",
-    "network_name": "Google",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "fa66ff4a-f52f-44be-9044-b72c42b39c8b",
-    "installed_at": "2024-09-13 15:52:13.324374",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "d4f337cb-e8b9-434b-b13c-93ad19eeb1c9",
-    "installed_at": "2024-09-13 03:11:26.612777",
+    "user_id": "f6ce8d6e-4453-4b48-b50c-24f6b8b50af0",
+    "installed_at": "2024-09-14 01:28:09.668485",
     "network_name": "Vungle",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "cb518a6e-23e7-4ee2-a5b7-92ce36b0ca5d",
-    "installed_at": "2024-09-13 04:18:59.217363",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "bd6e8028-3c19-4bb3-9cd1-0ae981e6d3e9",
-    "installed_at": "2024-09-13 09:17:56.046682",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "2e869e51-339e-40b6-837f-b15d5be6429c",
-    "installed_at": "2024-09-13 15:38:27.025186",
+    "user_id": "88be239a-ffef-4cc5-914c-325d0878d3ce",
+    "installed_at": "2024-09-14 22:48:34.492525",
     "network_name": "ACME Installs",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "245e2154-63a2-4a20-aa95-5f77f533829e",
-    "installed_at": "2024-09-13 03:52:44.003444",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "ea71b916-e889-4fb1-8577-65824a2f0ff1",
-    "installed_at": "2024-09-13 09:29:03.697746",
+    "user_id": "04c1ad72-c11b-45c0-851c-c35c601db94f",
+    "installed_at": "2024-09-14 22:34:26.798367",
     "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "291c2d4c-5c26-4281-b58b-6078eefea700",
+    "installed_at": "2024-09-14 19:37:24.256321",
+    "network_name": "Vungle",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "7bedbc9e-c2ac-4746-ac1c-1c8ccb2fcdcc",
-    "installed_at": "2024-09-13 09:13:44.172240",
+    "user_id": "c219689f-65b7-4ea9-896b-1dfa83a126b5",
+    "installed_at": "2024-09-14 15:28:13.919653",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "1d6a722b-13a6-409c-b065-152563ba5116",
+    "installed_at": "2024-09-14 16:34:22.019984",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "cf2e8b58-48c0-4ae2-a389-ea3acda98045",
+    "installed_at": "2024-09-14 06:08:16.019505",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "18f50264-be2d-4c15-8642-8c0d925156ee",
-    "installed_at": "2024-09-13 09:33:48.095500",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "a4b659f8-b55c-4c91-ab9a-d9b2b00a204d",
-    "installed_at": "2024-09-13 20:26:03.424436",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "ed651661-12c4-4b12-b5d0-085fb858178e",
-    "installed_at": "2024-09-13 19:13:20.822353",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "2903762f-d646-430f-9c60-e697fab5367e",
-    "installed_at": "2024-09-13 02:39:58.405732",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "d34a2093-1df2-439a-8b61-a04b95f0fd86",
-    "installed_at": "2024-09-13 02:30:02.083788",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "71438437-d1c5-47ba-ade6-21b1bd048bde",
-    "installed_at": "2024-09-13 08:15:19.927632",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "af13e433-9702-4eae-9952-45f76f5d601b",
-    "installed_at": "2024-09-13 03:28:51.313170",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "2c135c1b-8c19-4dec-89b3-0d4ce35eac7f",
-    "installed_at": "2024-09-13 07:36:08.775070",
+    "user_id": "2c81a973-9031-4ae0-b92a-966468b992e6",
+    "installed_at": "2024-09-14 02:23:20.897445",
     "network_name": "TikTok",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "b23b8205-67f9-4875-96d5-a9c671edba85",
-    "installed_at": "2024-09-13 13:21:09.496364",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
+    "user_id": "d8d5db0d-18fe-43f0-b5cd-18a88e09deb1",
+    "installed_at": "2024-09-14 00:26:58.696748",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "537b3b7e-ddb3-4589-97e0-76e883d7bfea",
-    "installed_at": "2024-09-13 15:17:04.711285",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "14594b4a-9a56-4891-9413-ccff9229cb3d",
-    "installed_at": "2024-09-13 16:16:51.981762",
+    "user_id": "6842180b-e847-4872-95f2-3c5a328fa7c0",
+    "installed_at": "2024-09-14 05:11:36.486353",
     "network_name": "Google",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "f5ee4541-0daa-42a1-9930-38b91606dc43",
-    "installed_at": "2024-09-13 22:09:12.263359",
-    "network_name": "AppLovin",
+    "user_id": "0450894b-9bc2-4292-a675-58a66febbf27",
+    "installed_at": "2024-09-14 07:17:08.115615",
+    "network_name": "TikTok",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "3dada220-4288-4e7d-ae92-ef556034d2e9",
-    "installed_at": "2024-09-13 13:31:55.985784",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "21de503f-33d7-40da-bb61-f0b59e65f402",
-    "installed_at": "2024-09-13 12:52:21.475882",
-    "network_name": "ACME Installs",
+    "user_id": "80885ad9-0d00-4521-84b5-100709103d95",
+    "installed_at": "2024-09-14 07:15:13.756225",
+    "network_name": "Mintegral",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "65aa0ace-b79c-4eac-9132-66d4877fbfd1",
-    "installed_at": "2024-09-13 17:27:39.542919",
+    "user_id": "18ba9fd8-2f81-4896-aa2c-1ae4977b30ab",
+    "installed_at": "2024-09-14 03:53:10.875013",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "3f3767c7-5cd4-4c27-b17a-26a0faee1844",
+    "installed_at": "2024-09-14 06:21:38.150606",
     "network_name": "Mintegral",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "6de97fb4-b6fd-4acf-9024-1abae9879330",
-    "installed_at": "2024-09-13 16:28:44.530060",
+    "user_id": "c8565dff-bffd-4408-9e56-624427dc7f68",
+    "installed_at": "2024-09-14 12:23:29.623324",
     "network_name": "Google",
-    "campaign_name": "Campaign_1"
+    "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "a1c01019-00a4-48ec-880f-48651c4f012f",
-    "installed_at": "2024-09-13 11:18:10.091630",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "8ab0da41-2185-42a6-8153-84ededf532e6",
-    "installed_at": "2024-09-13 02:56:12.360538",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "413cceea-6807-414d-b5d3-76107616198a",
-    "installed_at": "2024-09-13 00:42:37.416778",
+    "user_id": "d474b6ee-728d-4fe1-8a34-a686a6bee0e3",
+    "installed_at": "2024-09-14 10:05:41.744322",
     "network_name": "Vungle",
-    "campaign_name": "Campaign_2"
+    "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "fa36a437-0ff0-4ad7-bc9f-41560d4b8d42",
-    "installed_at": "2024-09-13 16:00:41.312332",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "67262cc3-d2f9-42da-b133-41720385a3b8",
-    "installed_at": "2024-09-13 19:43:50.286021",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "5f0dbd9e-7861-47a1-96ce-06d563eb270b",
-    "installed_at": "2024-09-13 03:21:58.143747",
+    "user_id": "0fac5ba3-0b79-4e3c-9433-521d1fd0f0e3",
+    "installed_at": "2024-09-14 16:03:12.093156",
     "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
+    "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "67389133-8e31-417f-bb7e-75932c65962d",
-    "installed_at": "2024-09-13 08:54:10.577283",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
+    "user_id": "d1322727-a54d-4415-9148-1c0f109cfb90",
+    "installed_at": "2024-09-14 12:19:54.130034",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "47a9ff2c-701e-4f7f-9863-5a458908f6d6",
-    "installed_at": "2024-09-13 05:41:09.567468",
+    "user_id": "4855d3b0-f34e-4582-8232-419e88abbe05",
+    "installed_at": "2024-09-14 23:11:59.515771",
     "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "91688633-b749-48c7-8fb0-0c3a6ab07932",
-    "installed_at": "2024-09-13 13:22:54.335338",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "cda23393-5b95-4aa3-86ae-4e486b0b8d1a",
-    "installed_at": "2024-09-13 20:36:29.996649",
-    "network_name": "TikTok",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "16b9fdc6-e1dc-4d48-a62e-5e92bfc1ba6a",
-    "installed_at": "2024-09-13 09:47:40.455571",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "52759990-4617-46c1-a376-5939731b5dd4",
-    "installed_at": "2024-09-13 21:55:58.996586",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "d60b9c46-0dd3-4e0b-bf1d-2abffbe06e16",
-    "installed_at": "2024-09-13 00:40:28.744492",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "81fdcfcd-0411-463c-9ce3-da49400a9914",
-    "installed_at": "2024-09-13 04:20:12.015346",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "2c75ce6e-c05d-4127-8746-95396e6e3f3a",
-    "installed_at": "2024-09-13 16:27:25.841350",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "a073ec91-37dd-475f-a0ec-518faef6af54",
-    "installed_at": "2024-09-13 07:53:34.426578",
+    "user_id": "019d4e66-f0cb-45d5-a760-bb540ac16c0b",
+    "installed_at": "2024-09-14 01:09:01.947662",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "3cc71bbb-a49c-488c-9f7e-6bc7d593c978",
-    "installed_at": "2024-09-13 17:10:16.792876",
-    "network_name": "Google",
+    "user_id": "592ec7ab-d151-48ca-9ec9-956268f5a681",
+    "installed_at": "2024-09-14 17:26:05.464414",
+    "network_name": "ACME Installs",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "738ccf7f-8400-4dff-b9d1-258386b3eea8",
-    "installed_at": "2024-09-13 06:47:03.746424",
+    "user_id": "a5055ba6-2b23-4338-9dc0-8a0497751d96",
+    "installed_at": "2024-09-14 17:26:58.426113",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "b0c74558-7dfb-4690-9765-4eaaf48fa81b",
+    "installed_at": "2024-09-14 23:43:00.386455",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "9cd70a4b-5975-479f-8ba9-93a79836d54d",
+    "installed_at": "2024-09-14 15:12:07.745898",
     "network_name": "ironSrc",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "a4dd0e39-e198-43a5-af86-864b382be42d",
-    "installed_at": "2024-09-13 07:06:28.986388",
+    "user_id": "9c681b0e-c35f-40e0-8178-6f191e72ed6e",
+    "installed_at": "2024-09-14 22:17:24.704021",
     "network_name": "Unity",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "23666f09-2b7e-47a3-94c6-f4f996598f21",
-    "installed_at": "2024-09-13 20:21:26.022366",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "7e433d30-acab-4917-9b2f-409c444c5c8e",
-    "installed_at": "2024-09-13 07:51:55.865658",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "c7422d1b-d891-4400-bb4e-e3c883469746",
-    "installed_at": "2024-09-13 10:35:05.912490",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "2560735e-ece1-4a0a-b243-355bde52a7ac",
-    "installed_at": "2024-09-13 06:03:46.512109",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "9796c68f-dd66-4ea6-b47c-f9ed3bae752d",
-    "installed_at": "2024-09-13 13:31:53.259038",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "21f9a530-4834-40fe-b5db-eab1711fe8c1",
-    "installed_at": "2024-09-13 09:45:44.195456",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "bb57469b-49a3-4a02-a361-a0fa688ac6fd",
-    "installed_at": "2024-09-13 13:59:10.367297",
+    "user_id": "fd798f77-b84a-4f7f-99a7-ee6bf3e7ee81",
+    "installed_at": "2024-09-14 18:07:01.022792",
     "network_name": "Vungle",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "ec914734-d726-4a4b-a981-683c9512179d",
-    "installed_at": "2024-09-13 17:00:51.852521",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "a5d2b147-557a-4112-8336-f31a3203e141",
-    "installed_at": "2024-09-13 19:13:03.673815",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "3472eb97-ae7e-41cf-9fdc-b71c0fbe20d4",
-    "installed_at": "2024-09-13 16:03:50.957719",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "56d9903f-29a4-4f97-a21d-35f243b0fa1c",
-    "installed_at": "2024-09-13 09:53:08.769746",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "0464ce82-2b98-4712-8ad3-295c05089302",
-    "installed_at": "2024-09-13 15:30:45.400889",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "2f838335-ddf1-4add-8874-efb89215b88d",
-    "installed_at": "2024-09-13 10:34:10.972915",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "644fa985-583d-4253-8808-17fae85629ab",
-    "installed_at": "2024-09-13 13:20:09.902153",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "a042c5e4-2462-4acb-abc3-60d9cfd445ba",
-    "installed_at": "2024-09-13 06:20:42.841129",
+    "user_id": "8fa76cdb-9865-401e-984c-5e02991fecb4",
+    "installed_at": "2024-09-14 21:57:09.426788",
     "network_name": "Google",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "7e545eac-f1a0-4646-822c-17bebd919656",
-    "installed_at": "2024-09-13 07:09:04.546721",
+    "user_id": "e6ab78e9-bcf9-4304-997c-03f82061e147",
+    "installed_at": "2024-09-14 02:45:06.722051",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "7a602207-7234-4b3f-aafe-956a1c3ca56c",
-    "installed_at": "2024-09-13 01:47:08.798097",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "4a57072b-e25c-401a-8598-fceb27abbb59",
-    "installed_at": "2024-09-13 20:13:03.167257",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "ad75100f-df37-4b99-b780-3603a062a4bd",
-    "installed_at": "2024-09-13 11:40:15.564271",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "64c7cfa5-02c5-4611-aa47-c6b405bf6f70",
-    "installed_at": "2024-09-13 08:53:34.615748",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "16500299-5e2e-44e2-a581-0fe4d3bc20cd",
-    "installed_at": "2024-09-13 20:21:47.550196",
+    "user_id": "f8cf5d97-04cb-4341-9fa5-12c46cdf4d67",
+    "installed_at": "2024-09-14 08:27:56.878745",
     "network_name": "TikTok",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "045b1a59-2d12-4161-93a4-8338ec3e21c5",
-    "installed_at": "2024-09-13 09:31:27.428581",
-    "network_name": "TikTok",
+    "user_id": "3765cb81-52ef-4d47-ab73-7e740dbbf0b5",
+    "installed_at": "2024-09-14 19:23:54.457320",
+    "network_name": "ACME Installs",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "5d173eee-44ec-49fc-b6bc-f517c9fa38a2",
-    "installed_at": "2024-09-13 18:35:45.264528",
+    "user_id": "049cf655-fa1b-4d59-b021-796db6efc9ec",
+    "installed_at": "2024-09-14 16:39:43.027711",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "55a20d26-65e6-4f2e-aced-d0fc4db6bdcc",
+    "installed_at": "2024-09-14 11:12:35.145605",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "0f899fea-3d31-40d3-bde1-1c0b4d5fff2f",
+    "installed_at": "2024-09-14 15:25:09.233993",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "2d1fd55a-370a-420b-9809-7b29297475fc",
+    "installed_at": "2024-09-14 06:40:47.878141",
     "network_name": "Unity",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "a38b9c2b-88f1-4d56-8682-8a989cb50d5d",
-    "installed_at": "2024-09-13 06:23:37.814038",
-    "network_name": "ACME Installs",
+    "user_id": "92fd1791-32d4-4cde-b9f8-0b4543d8df5a",
+    "installed_at": "2024-09-14 03:20:43.903358",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "a2507113-afce-4275-842d-9def6d79e112",
+    "installed_at": "2024-09-14 07:31:54.367830",
+    "network_name": "ironSrc",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "cd242c1a-d3ec-4a6a-9192-2db774cce2a2",
-    "installed_at": "2024-09-13 12:30:04.741364",
-    "network_name": "ACME Installs",
+    "user_id": "70ba91d1-c485-4877-9109-0487c3e9d491",
+    "installed_at": "2024-09-14 12:45:09.341227",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "1460559e-6bae-4499-8360-fad998b865b9",
+    "installed_at": "2024-09-14 11:40:22.478143",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "c2ccb24e-ab3c-414d-a8a0-b6be504697d7",
+    "installed_at": "2024-09-14 22:34:49.503823",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "c12c0c81-9ad3-4fc8-b465-e79ddeb767a8",
+    "installed_at": "2024-09-14 04:22:19.738727",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "32e79339-a38d-4822-838a-28d0443c3ef3",
+    "installed_at": "2024-09-14 17:59:11.474442",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "f777d523-6657-411f-94e4-e64dc945e986",
+    "installed_at": "2024-09-14 22:10:43.274496",
+    "network_name": "Google",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "bd631869-39da-4190-905e-4fac0ac60bcf",
-    "installed_at": "2024-09-13 17:17:12.740946",
+    "user_id": "cfcbb59a-29d6-4f71-892d-71292ed273a6",
+    "installed_at": "2024-09-14 03:25:24.562100",
     "network_name": "Unity",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "04a2ecda-00b4-464e-9bfe-d95c5e9d4f3d",
-    "installed_at": "2024-09-13 18:04:36.134290",
+    "user_id": "3183bab1-0c45-47d9-93a2-0fe896d0ba5a",
+    "installed_at": "2024-09-14 13:55:18.575905",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "fc97a51e-941e-45e7-b117-ec0812a13852",
+    "installed_at": "2024-09-14 13:43:04.368869",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "8019810d-b9f9-4177-9842-25d5b3bd47cc",
+    "installed_at": "2024-09-14 17:48:02.876201",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "0b7dea9c-f55f-4a9d-a172-0436d3e2bf14",
+    "installed_at": "2024-09-14 19:03:08.496983",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "37234125-9663-40b0-ba21-7da0304adbee",
+    "installed_at": "2024-09-14 20:16:02.004708",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "58bd2fa6-9f92-47d8-bcfb-5a802c6952ea",
+    "installed_at": "2024-09-14 19:52:53.027225",
     "network_name": "Unity",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "c87c2fc6-7dcd-4dc4-ae18-67af4fe935ae",
-    "installed_at": "2024-09-13 06:48:52.030837",
+    "user_id": "9e1e0173-e685-47f8-a228-7d3b27d90d2e",
+    "installed_at": "2024-09-14 13:26:35.394006",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "ea21982f-43f0-40e9-9e32-7b32daebbf3a",
+    "installed_at": "2024-09-14 13:12:51.474534",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "5487e3b0-edc3-4c63-ab62-5ed88e4f0eaa",
+    "installed_at": "2024-09-14 11:43:04.022222",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "5c562f5e-f355-4870-a918-ca11bb90085c",
+    "installed_at": "2024-09-14 00:15:56.296919",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "726e9110-54b4-4cde-8ee2-99bcc13fed16",
+    "installed_at": "2024-09-14 19:24:18.922807",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "ef95f37c-75e6-4fa5-838a-1a7cea29fa43",
+    "installed_at": "2024-09-14 03:01:24.695559",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "1d5a84f8-1bd7-400b-ad8c-c59587854643",
+    "installed_at": "2024-09-14 21:11:06.595556",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "1e772fe1-eabf-4af6-90ce-e2ea21a87ebe",
+    "installed_at": "2024-09-14 21:38:52.143129",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "4f70683b-a8e5-449b-822d-b09cfe81a124",
+    "installed_at": "2024-09-14 03:53:00.395641",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "c90e8c53-8975-4d77-97d8-f5b75a4d8b72",
+    "installed_at": "2024-09-14 07:26:18.548052",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "ceeb5792-2069-441b-a14e-22906379bed6",
+    "installed_at": "2024-09-14 14:16:46.251995",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "31626f6e-0b83-4087-8954-5480d452408b",
+    "installed_at": "2024-09-14 13:04:16.762563",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "fe6e80cf-dd19-453c-82fb-0320b1bac39d",
+    "installed_at": "2024-09-14 08:30:04.408121",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "096fbde0-f4d0-4e61-86aa-864fbcab74a9",
+    "installed_at": "2024-09-14 10:33:47.222475",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "5a3513e2-e613-41d0-9c77-d50a77927ad5",
+    "installed_at": "2024-09-14 11:57:55.483656",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "4b0464a7-72fc-46b4-a479-44ea0415471b",
+    "installed_at": "2024-09-14 02:57:54.136536",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "26463ec9-b42f-4e3b-8740-f8c8003cfffe",
+    "installed_at": "2024-09-14 11:09:48.310986",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "e7ac24a3-26d1-4eb6-a3af-a13354ce14e5",
+    "installed_at": "2024-09-14 02:32:25.180946",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "5056fcf5-4fb0-4890-a499-ad6ccd66648c",
+    "installed_at": "2024-09-14 17:47:22.295950",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "18cdbf57-facf-41e0-817c-f860c0e7d21b",
+    "installed_at": "2024-09-14 04:47:01.136191",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "07bdaad6-c70f-4115-a832-b778bc7ab011",
-    "installed_at": "2024-09-13 15:13:56.895906",
+    "user_id": "bf094a0d-c384-40cb-8981-2f4b88077d0a",
+    "installed_at": "2024-09-14 04:31:14.034009",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "078fec65-7c83-427a-b126-f1224d9520a4",
+    "installed_at": "2024-09-14 11:20:27.484992",
     "network_name": "Vungle",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "87796c49-3377-45d8-9f90-4d95b55b773f",
-    "installed_at": "2024-09-13 12:05:09.930282",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "372fce12-b045-4803-bbe9-82f680af5e04",
-    "installed_at": "2024-09-13 03:59:58.362543",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "4463d3cb-c2f4-475e-abe2-cdf4fc53797b",
-    "installed_at": "2024-09-13 23:32:56.331530",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "4b1a67cf-e5e0-4dbc-84ef-207c733e7d9a",
-    "installed_at": "2024-09-13 21:48:07.360235",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "82fda153-08a3-4dbc-931f-6f18030c6527",
-    "installed_at": "2024-09-13 02:56:42.488350",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "8887a5cb-66b8-4969-8153-7c1bee0ae95b",
-    "installed_at": "2024-09-13 04:07:07.357325",
+    "user_id": "d0c08bb6-8121-4cea-8519-4900f9ddb31f",
+    "installed_at": "2024-09-14 15:37:50.341420",
     "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "91982538-bf0b-496d-90eb-13bafcd5e870",
-    "installed_at": "2024-09-13 01:56:33.272675",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "630a992b-3689-4630-bac3-3c020b999ec7",
-    "installed_at": "2024-09-13 09:48:52.638084",
-    "network_name": "ironSrc",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "cdd968e7-c7e8-438e-85ba-5a9147d1fa2a",
-    "installed_at": "2024-09-13 09:18:13.985217",
+    "user_id": "f0dc4eda-7760-4d45-b3dc-7f5f57be991f",
+    "installed_at": "2024-09-14 00:19:49.409358",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "d576db87-2aa6-4a5d-8922-ba11a7a550a0",
-    "installed_at": "2024-09-13 15:15:52.063778",
-    "network_name": "ACME Installs",
+    "user_id": "2ea30584-479d-4c5f-a479-f0b91ca5b3ed",
+    "installed_at": "2024-09-14 12:18:21.980107",
+    "network_name": "Unity",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "3c17d900-a949-4fb9-a9a4-7ed477409ba0",
-    "installed_at": "2024-09-13 23:40:15.937281",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "4ae0b3f8-ed8a-4d10-9eb6-80e2f250667f",
-    "installed_at": "2024-09-13 05:11:27.365561",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "59654adf-2208-48dc-8ce1-7c72b85e7e04",
-    "installed_at": "2024-09-13 18:01:45.017845",
+    "user_id": "9649eb23-c711-4da7-a1d3-5f0f00196fce",
+    "installed_at": "2024-09-14 15:14:58.517542",
     "network_name": "Google",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "4c5c2127-2e0a-4bbf-bc60-93d45c4b1344",
-    "installed_at": "2024-09-13 21:28:54.281122",
-    "network_name": "Mintegral",
+    "user_id": "8ab87ebb-6508-4626-bfdb-c2d87872604d",
+    "installed_at": "2024-09-14 11:29:29.573949",
+    "network_name": "Unity",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "63307ec0-4b7e-43ef-a5fd-4447cc59457c",
-    "installed_at": "2024-09-13 22:00:37.015747",
+    "user_id": "deaa9656-7317-447d-8f6d-6068fb95934c",
+    "installed_at": "2024-09-14 20:44:42.382825",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "bf74746e-0d99-4fff-ac93-4db84e87f903",
+    "installed_at": "2024-09-14 04:51:43.451559",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "608e3c5c-2484-444a-a2be-63fd713bbe5d",
+    "installed_at": "2024-09-14 05:55:11.715703",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "8bf17487-9f5b-4321-a9bd-8143f4a47dee",
+    "installed_at": "2024-09-14 18:13:56.208597",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "1fd7bef0-ee65-4dda-8b8a-fc792b52adff",
+    "installed_at": "2024-09-14 23:50:01.388979",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "8c7134ac-dc40-4ad8-ae12-84d994804ec1",
+    "installed_at": "2024-09-14 19:22:31.331670",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "a6d66a75-0cfd-4a5f-8de2-195e3b24fc33",
-    "installed_at": "2024-09-13 13:38:34.839546",
-    "network_name": "Unity",
+    "user_id": "59eed6d6-9864-481a-b3a9-fc3e934d803b",
+    "installed_at": "2024-09-14 12:35:09.958313",
+    "network_name": "TikTok",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "e81b79c3-dfbd-41cc-9860-45f0457d84c7",
-    "installed_at": "2024-09-13 00:14:52.092205",
+    "user_id": "a9fc883a-f094-4b02-8cb5-1f8192536458",
+    "installed_at": "2024-09-14 00:16:16.606110",
     "network_name": "ACME Installs",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "54ccbb91-2960-43f9-88cb-75330dc94e29",
-    "installed_at": "2024-09-13 03:07:28.439093",
+    "user_id": "f2644a98-04aa-4fb0-9eb5-f552b0e1bfe1",
+    "installed_at": "2024-09-14 12:05:44.099718",
     "network_name": "ACME Installs",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "3cfa8638-a8c3-48e8-923a-17298048323d",
-    "installed_at": "2024-09-13 03:32:00.698839",
+    "user_id": "e60a2ed6-2911-4607-bde0-9c7828f37d51",
+    "installed_at": "2024-09-14 19:11:19.024677",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "cb3a3f4f-6afe-4e9b-acf7-05f32a56ba7e",
+    "installed_at": "2024-09-14 12:40:26.859305",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "42511919-d9b4-4c3e-aa9b-32ba6b0adb64",
+    "installed_at": "2024-09-14 11:53:10.581768",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "7fe32c36-f13e-4208-90fd-7483f353ba10",
+    "installed_at": "2024-09-14 01:56:01.283407",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "8990be7c-c834-4c2c-8fa4-d128d82fac19",
+    "installed_at": "2024-09-14 06:09:09.377041",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "e365d980-aeba-4ef1-b312-8c7daf7c07cd",
+    "installed_at": "2024-09-14 13:09:45.514887",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "6cf0867e-d412-484b-9b1b-c3c9ce8b25e7",
+    "installed_at": "2024-09-14 07:40:47.066186",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "f93cf591-2a5a-47d8-856d-0781bfdf9d3f",
+    "installed_at": "2024-09-14 11:15:34.311518",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "f6cd008a-af82-4768-b3ca-4203b3a680bb",
+    "installed_at": "2024-09-14 11:17:24.254850",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "4a6885cd-cc21-4cae-8f65-3a3e3a5bab53",
+    "installed_at": "2024-09-14 11:27:55.302997",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "c6204b67-9d10-4d66-8624-87db9c76d40d",
+    "installed_at": "2024-09-14 21:51:08.664548",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "a2c3aa25-8cf4-4313-9725-df99d0dc9fbe",
+    "installed_at": "2024-09-14 07:05:00.488169",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "6972e9ca-a7d4-4800-aac8-e731e0e53f71",
+    "installed_at": "2024-09-14 02:27:03.006110",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "ec9bfa0a-7cfd-4b65-a914-3a26ab8c550f",
+    "installed_at": "2024-09-14 18:44:04.511962",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "02d5609b-3026-45d8-bb73-c0a5a99f0b7d",
+    "installed_at": "2024-09-14 07:33:38.348660",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "cefde66f-6857-4fed-b748-6573bf217e25",
+    "installed_at": "2024-09-14 09:15:54.648589",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "204056b0-2bdb-45df-8612-8ee114e2108d",
+    "installed_at": "2024-09-14 08:52:05.200293",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "e1fa4b66-24a1-4993-bea3-e5fcad1e49a0",
+    "installed_at": "2024-09-14 08:00:30.370423",
     "network_name": "Mintegral",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "652aed59-32f6-414e-921e-3ef4f2ce5852",
-    "installed_at": "2024-09-13 08:23:55.932503",
+    "user_id": "e6e9a870-1e1f-497d-a088-01cf6aa9af7f",
+    "installed_at": "2024-09-14 23:23:26.471864",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "296c830a-568a-4350-bf65-d3df7487fb96",
+    "installed_at": "2024-09-14 20:28:37.690819",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "4f58426c-37ac-4567-b845-79980456931b",
+    "installed_at": "2024-09-14 09:12:57.099980",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "98510ba1-4e9f-42a1-a864-c6bad95b5e80",
+    "installed_at": "2024-09-14 06:14:16.135343",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "9159f56d-a92c-4e60-83a6-c42502074a05",
+    "installed_at": "2024-09-14 13:33:34.911657",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "2ae8c9ae-8b6d-46cb-817e-2a7064575500",
+    "installed_at": "2024-09-14 00:37:00.875665",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "c3d1f4f1-c48e-40d7-98e6-2ac58f4c483c",
+    "installed_at": "2024-09-14 14:56:30.159508",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "ccb81bef-6dff-42dc-a94a-cd4cfa7cd169",
+    "installed_at": "2024-09-14 19:39:35.936989",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "84882e20-5ff7-43bb-9aae-476238ae3bdb",
+    "installed_at": "2024-09-14 15:33:28.031879",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "04a4b889-f135-472a-a24d-cb700f39216f",
-    "installed_at": "2024-09-13 19:15:15.374262",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "121f2656-1215-4c7c-a071-5f9462717108",
-    "installed_at": "2024-09-13 15:35:11.996579",
+    "user_id": "70acafb4-5638-4fa9-a451-301d3406e3c5",
+    "installed_at": "2024-09-14 08:11:22.627525",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "59721e69-53e9-43b5-b4ae-50e76602a675",
-    "installed_at": "2024-09-13 00:13:12.174675",
+    "user_id": "aa6dbb03-9030-481e-af8c-0a308da6502a",
+    "installed_at": "2024-09-14 07:50:09.699998",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "15edb1cc-7fa1-4e32-af3a-57a3d1ad65a3",
+    "installed_at": "2024-09-14 20:41:57.097721",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "5c4da5c5-a2f4-4b79-b162-d363a6f98fb6",
+    "installed_at": "2024-09-14 18:16:21.162961",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "f2e0595d-e0ee-4ff2-9127-4b73c39affc4",
+    "installed_at": "2024-09-14 11:30:27.222851",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "c5312dc4-d57a-411b-9fa0-9fa936b998cd",
+    "installed_at": "2024-09-14 04:54:32.037761",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "d4274004-3122-4283-a312-c084cb7b44cd",
+    "installed_at": "2024-09-14 08:17:18.079646",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "42e648cd-e445-48bd-b00b-6e409f6234bb",
+    "installed_at": "2024-09-14 22:03:39.589869",
     "network_name": "Vungle",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "b9fbb887-51dc-498d-a673-74ded9f7dd85",
-    "installed_at": "2024-09-13 05:11:39.748820",
+    "user_id": "479b0e9b-5a81-4657-8dc1-e22c7713ee47",
+    "installed_at": "2024-09-14 23:24:07.304775",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "f18d987d-4ff5-466a-82e3-f2b51b18de9d",
+    "installed_at": "2024-09-14 02:31:42.508950",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "21c814bc-3499-490c-bdc1-d46239efc62a",
+    "installed_at": "2024-09-14 03:43:31.526118",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "13e4fac0-7d87-41e5-b306-b3ad0c19d00e",
+    "installed_at": "2024-09-14 02:14:00.656624",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "6f450989-3038-4c95-88f3-871c9fffb760",
+    "installed_at": "2024-09-14 12:46:40.904405",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "b1e9caee-43fa-45ee-a4cb-3498d6997a97",
+    "installed_at": "2024-09-14 03:32:56.376855",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "fd4c31a8-4d0c-44a4-b8f8-c3052b64b992",
+    "installed_at": "2024-09-14 02:07:31.024665",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "5d3cb306-a6ba-4706-861e-40fc53cf2bc0",
+    "installed_at": "2024-09-14 21:25:00.382107",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "d1c52ec7-7bd5-49fc-af28-e3f3a79d1d27",
+    "installed_at": "2024-09-14 22:25:01.854321",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "e3ede44d-9be2-4b36-b830-e51181f38daf",
+    "installed_at": "2024-09-14 20:06:25.242868",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "16aab3b0-81b5-48cb-8386-33025773d111",
+    "installed_at": "2024-09-14 13:15:16.756181",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "834442f0-46fc-49e5-afa1-f00ea984dd69",
+    "installed_at": "2024-09-14 00:32:21.860977",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "a2aa062c-0d00-43d8-a1b1-20d50d73c356",
+    "installed_at": "2024-09-14 23:23:34.134466",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "7a93f36c-5862-4e63-bc27-cdb07c23b1e3",
+    "installed_at": "2024-09-14 08:06:47.487680",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "71ceb64f-225e-43b8-9694-0f5dedebf541",
+    "installed_at": "2024-09-14 07:43:02.711138",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "ce2e296d-e2e7-4c06-9e98-78c3dd48a05c",
+    "installed_at": "2024-09-14 16:39:54.440919",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "33dcd896-7c4a-40c4-b9ce-b0814b7a3a53",
+    "installed_at": "2024-09-14 02:23:02.725526",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "40cca173-5af4-4fe4-91c4-2833397068e1",
+    "installed_at": "2024-09-14 01:04:49.915427",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "e6200de4-6d16-4488-9d95-ddec3f2584bf",
+    "installed_at": "2024-09-14 16:34:08.478009",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "2e61babc-f871-4d7d-827a-db1f7754e1a8",
+    "installed_at": "2024-09-14 18:29:18.244768",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "ac7cc478-c306-4440-9a2c-96ebeaaefad2",
-    "installed_at": "2024-09-13 03:51:29.674275",
+    "user_id": "d931eae2-fe3a-4201-9c50-1aa4cf97d44c",
+    "installed_at": "2024-09-14 06:01:12.046754",
     "network_name": "TikTok",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "e9523b03-c79f-4d70-8d0a-b66c6792b54f",
-    "installed_at": "2024-09-13 14:51:46.268004",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "db8fde11-1c70-4705-99a7-7fb22aa2d4ae",
-    "installed_at": "2024-09-13 03:11:02.217493",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "1aac5395-6a5f-4af3-bf9f-08de16567465",
-    "installed_at": "2024-09-13 09:36:20.527893",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "9db0ec8c-879a-4520-8bb7-02703dcf1493",
-    "installed_at": "2024-09-13 14:33:46.110106",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "5d5ed8b9-433b-48c0-af27-2577d215a3e1",
-    "installed_at": "2024-09-13 04:11:07.469542",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "d506fb86-49c8-41c2-9c21-25e6580f6056",
-    "installed_at": "2024-09-13 08:43:39.374535",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "3734f142-b3a0-479d-a521-57cd54c4a9c3",
-    "installed_at": "2024-09-13 23:30:09.655710",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "5117f697-6e8c-43d6-9f47-f8c085077bf7",
-    "installed_at": "2024-09-13 05:55:44.527605",
+    "user_id": "d5b4b93e-79de-4069-80be-4beafd34af11",
+    "installed_at": "2024-09-14 11:19:22.973158",
     "network_name": "Mintegral",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "ae6638f1-f77c-41bc-ad7f-926b37cc5099",
-    "installed_at": "2024-09-13 02:06:13.443824",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "36f3c633-dd10-4ff9-9b0a-9093d429ffc9",
-    "installed_at": "2024-09-13 09:40:35.151339",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "c5a22678-4c79-4900-928d-adca8e6e0675",
-    "installed_at": "2024-09-13 10:24:06.216112",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "9e8269ef-e8fb-4ca4-a309-bed512c99488",
-    "installed_at": "2024-09-13 05:14:32.033015",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "1dffd997-adaa-49cd-adbe-0d074ee9d101",
-    "installed_at": "2024-09-13 19:53:53.899809",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "89426b80-ec4e-44d4-8e42-27c77b8f1307",
-    "installed_at": "2024-09-13 14:34:40.514709",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "8d48f5f9-9058-47b4-bee2-59b7155af359",
-    "installed_at": "2024-09-13 04:27:06.155170",
+    "user_id": "e173279f-21ef-4868-8eac-4a031f9f58e9",
+    "installed_at": "2024-09-14 23:18:41.610335",
     "network_name": "TikTok",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "c51ef392-d19e-4333-8723-f919d72fe624",
-    "installed_at": "2024-09-13 18:56:18.380591",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "2009394e-894f-464c-8752-bae7bde67278",
-    "installed_at": "2024-09-13 17:41:26.382482",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "b8d5727c-cb1e-4803-8cf1-f899d58a0f26",
-    "installed_at": "2024-09-13 11:33:38.368511",
+    "user_id": "bf4ae798-d461-47bf-8ea8-3f2e1658ef7b",
+    "installed_at": "2024-09-14 06:59:50.863806",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "843e5b98-0fb4-4c9e-ba40-adea1a1cb420",
-    "installed_at": "2024-09-13 15:01:14.186799",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "dca11dda-a597-4ddb-a5c6-193739f311f6",
-    "installed_at": "2024-09-13 23:21:43.558182",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "80686c39-2dc5-4427-afc7-469d7adf72b1",
-    "installed_at": "2024-09-13 14:20:56.401560",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "78908b9d-1014-4b9d-a296-c6bf7d8efb1a",
-    "installed_at": "2024-09-13 17:51:13.215178",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "f1f330fc-011a-4f64-bdee-fbbdac48a96e",
-    "installed_at": "2024-09-13 03:39:22.669772",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "1c24494b-bbc8-4171-8bd5-af74d3858ef9",
-    "installed_at": "2024-09-13 22:48:11.441724",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "069ea1ab-2993-4384-becc-8f6d1f536c96",
-    "installed_at": "2024-09-13 19:39:55.263267",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "df04b791-e197-42cd-a828-e2a30793decc",
-    "installed_at": "2024-09-13 21:06:46.005849",
+    "user_id": "9e097392-d036-4f73-8640-d71f0ca6bdd2",
+    "installed_at": "2024-09-14 16:30:07.593771",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "315f0859-aaca-424c-8491-46cc5914450c",
-    "installed_at": "2024-09-13 12:53:50.819614",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "d276692e-46df-4115-9543-6a5ebeb8c0e3",
-    "installed_at": "2024-09-13 00:23:45.197009",
-    "network_name": "TikTok",
+    "user_id": "5830fb71-a5a4-43bb-a7d2-4ec4846217b3",
+    "installed_at": "2024-09-14 16:42:11.630408",
+    "network_name": "Google",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "64eb2895-e5ae-40da-8a60-a22e8dfdf0c3",
-    "installed_at": "2024-09-13 15:07:27.793211",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "329ef9fb-3660-425a-aaba-d11923e7f142",
-    "installed_at": "2024-09-13 17:01:59.307466",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "dd25aaa7-68e0-411c-b83a-40265ef73cdb",
-    "installed_at": "2024-09-13 12:15:37.243982",
+    "user_id": "f545d1ea-035c-4f8e-9780-313b02e4c84b",
+    "installed_at": "2024-09-14 22:01:36.273737",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "a93957c1-3a97-418e-bca6-b9c02a5afe39",
-    "installed_at": "2024-09-13 16:46:22.729488",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "8ebd8c6c-705d-4611-a848-640d22cf850f",
-    "installed_at": "2024-09-13 02:59:01.541462",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "c6ae8c77-26b4-46af-982d-b04f22713a3e",
-    "installed_at": "2024-09-13 11:40:47.543818",
+    "user_id": "8105637d-3303-4087-9315-c9298ab9c02a",
+    "installed_at": "2024-09-14 12:01:04.314044",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "f7f6b09e-dbd3-4336-9c29-8168ec2eb66c",
-    "installed_at": "2024-09-13 15:51:15.442934",
-    "network_name": "Vungle",
+    "user_id": "7d73f267-0d5e-42a7-8e68-b3a9396db3e4",
+    "installed_at": "2024-09-14 17:52:33.573699",
+    "network_name": "TikTok",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "21deed4f-6cdc-455b-9a40-e017f30fbfef",
-    "installed_at": "2024-09-13 06:04:48.833499",
-    "network_name": "Google",
+    "user_id": "bd734844-b5c3-417a-bc2d-1f94ccae5360",
+    "installed_at": "2024-09-14 05:05:45.788225",
+    "network_name": "Unity",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "2729d0be-aa3d-42b0-8866-c981687a04ad",
-    "installed_at": "2024-09-13 17:05:48.377073",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "51bcbaa7-3cbd-495a-a9f4-8df357737ff8",
-    "installed_at": "2024-09-13 06:07:23.031624",
-    "network_name": "Google",
+    "user_id": "58c9608d-b46d-46fd-8231-ea3aa6c1235e",
+    "installed_at": "2024-09-14 20:11:42.844310",
+    "network_name": "Mintegral",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "6d10bd3c-e79d-4fdb-8732-44c502c5fc68",
-    "installed_at": "2024-09-13 08:06:56.891360",
+    "user_id": "cf221965-10f1-4b0f-8731-37f86ef05d34",
+    "installed_at": "2024-09-14 11:46:43.147730",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "bb261ab0-d1d2-4794-b19a-5829be2eb51a",
+    "installed_at": "2024-09-14 18:20:21.773421",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "18e8b40f-251f-416f-b1e0-d277f09b2fe5",
+    "installed_at": "2024-09-14 04:24:01.571220",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "48e3a6df-fd0c-4091-891e-5f6f7ec9d315",
+    "installed_at": "2024-09-14 22:06:30.952150",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "a7e88fce-82c8-4709-94a0-52c50c145fb9",
+    "installed_at": "2024-09-14 05:51:46.127923",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "67b053f6-5676-429e-ae42-23dd4810fd60",
-    "installed_at": "2024-09-13 06:32:43.506446",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "5f778ab8-1bb4-45ae-af8b-96937f6e3467",
-    "installed_at": "2024-09-13 16:05:54.630174",
+    "user_id": "c5117c41-41a0-4821-88a8-bbd547454b7b",
+    "installed_at": "2024-09-14 04:39:02.036122",
     "network_name": "Unity",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "180932bb-5431-4e42-913e-82b098ce0f8e",
-    "installed_at": "2024-09-13 04:20:53.316351",
+    "user_id": "06c494a0-f90f-4609-95da-d1d891388321",
+    "installed_at": "2024-09-14 22:38:27.049241",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "dfa61691-b34a-44d3-8930-036f8c6734f8",
+    "installed_at": "2024-09-14 14:07:35.886458",
     "network_name": "Vungle",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "81aacfdd-b729-4994-9782-bd8d103e631e",
-    "installed_at": "2024-09-13 09:44:07.625997",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "485e1407-0956-45e4-a598-1e587c71cace",
-    "installed_at": "2024-09-13 02:14:51.456255",
-    "network_name": "Mintegral",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "73dcaaad-4bdb-49cf-bed7-239183f4ee08",
-    "installed_at": "2024-09-13 07:35:48.393179",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "26bcd049-9c4e-46e4-bd97-52f14bd1f1d4",
-    "installed_at": "2024-09-13 12:44:54.843554",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "d564617c-8c11-47b7-9925-72c1570791f7",
-    "installed_at": "2024-09-13 11:23:04.602004",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "433c7846-53e6-4b70-b1e0-33df4af9cc5f",
-    "installed_at": "2024-09-13 01:52:28.521520",
+    "user_id": "5af3c04e-e5b3-4c78-80bd-0719ee2fe69b",
+    "installed_at": "2024-09-14 00:45:39.816837",
     "network_name": "ACME Installs",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "70e85fe9-5d17-4536-9801-fe4b69c946d6",
-    "installed_at": "2024-09-13 06:40:04.851983",
+    "user_id": "6bfca4b4-51eb-4dfc-a1ea-b92bf5101630",
+    "installed_at": "2024-09-14 16:38:22.115612",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "3764fac9-475d-4e7e-b843-a2d1d050298c",
+    "installed_at": "2024-09-14 13:43:57.469216",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "f715a177-889e-4e5d-a42d-ec27781a61aa",
+    "installed_at": "2024-09-14 12:20:16.137405",
     "network_name": "Mintegral",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "b4d9b974-86f0-415f-8f22-5f65a7059d63",
-    "installed_at": "2024-09-13 03:17:15.245733",
+    "user_id": "786dc6c6-32fa-41ab-9c9c-38578c857f5c",
+    "installed_at": "2024-09-14 05:52:35.307149",
     "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
+    "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "45604db1-c04a-4d38-80ac-015a7275556f",
-    "installed_at": "2024-09-13 05:13:49.228245",
+    "user_id": "1de2e61c-500d-4fa4-a71d-8382e3b3df44",
+    "installed_at": "2024-09-14 02:36:16.879852",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "646766a9-a67b-4ab3-9056-56223e621a9d",
-    "installed_at": "2024-09-13 16:36:28.960094",
-    "network_name": "Google",
+    "user_id": "07a37860-8d1d-459e-a896-47c47a4c71af",
+    "installed_at": "2024-09-14 09:46:20.748089",
+    "network_name": "Unity",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "6821d4fe-00ef-4959-98a3-2605c71f5466",
-    "installed_at": "2024-09-13 22:54:43.276153",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "59cc0d9f-86c9-4914-bf59-397023f7eae0",
-    "installed_at": "2024-09-13 06:24:03.997635",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "84b0993a-5747-48dd-bdbf-ae4b953020c1",
-    "installed_at": "2024-09-13 13:00:40.956348",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "b57d33dd-6ab0-4c1d-b7c9-1dbf85825fc9",
-    "installed_at": "2024-09-13 23:13:03.952696",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "44624e7b-2809-4c50-92fc-f2200e7d177b",
-    "installed_at": "2024-09-13 13:46:42.978183",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "bb704728-8454-4e52-a4d7-edabccfdb491",
-    "installed_at": "2024-09-13 05:28:12.143031",
-    "network_name": "Google",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "74f4831e-ab5a-4c30-a586-440b0e1a5180",
-    "installed_at": "2024-09-13 16:45:48.342069",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "18ec2a82-a6d4-4deb-8ee8-772d4d880085",
-    "installed_at": "2024-09-13 02:27:45.058759",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "a559818a-45bb-437c-80e5-810d69730db0",
-    "installed_at": "2024-09-13 11:47:41.823577",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "a57842c3-4c37-4977-922c-d348f3a1620e",
-    "installed_at": "2024-09-13 21:04:47.922533",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "70beb3af-03d8-4001-85e9-bdd0966efcdb",
-    "installed_at": "2024-09-13 14:24:24.617654",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "8e40d24f-657c-4661-aad1-43a90146f695",
-    "installed_at": "2024-09-13 00:49:42.675495",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "45824b7e-6f75-48a7-b052-e04c1dfec34e",
-    "installed_at": "2024-09-13 15:13:29.757586",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "cd5d67d7-7e06-4dac-b37c-a6b543aeeb39",
-    "installed_at": "2024-09-13 04:03:15.933171",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "ba857bbb-1a34-4570-8c47-f11a356ce00f",
-    "installed_at": "2024-09-13 20:14:41.537289",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "c01f97da-17c4-448d-97a5-46f1f723b72f",
-    "installed_at": "2024-09-13 14:27:26.755945",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "c66c5ea5-cd64-403c-930c-6b3a6679ab23",
-    "installed_at": "2024-09-13 02:38:31.253805",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "262c418f-9643-41e4-82aa-9d1ce2065cbc",
-    "installed_at": "2024-09-13 03:52:19.323819",
+    "user_id": "f5454c46-e519-49e5-a918-544a0b90d245",
+    "installed_at": "2024-09-14 19:42:16.831213",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "ff734c67-4908-4c65-97a8-04e26db4c374",
-    "installed_at": "2024-09-13 21:51:11.541159",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "93e0a098-7c7d-43d4-9270-24cd698154af",
-    "installed_at": "2024-09-13 04:35:25.544455",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "05f445d3-5edb-45d9-aba3-19d00cfd03c3",
-    "installed_at": "2024-09-13 07:51:53.897550",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "66bd41bf-e0c8-460c-9e9a-cac70b94058e",
-    "installed_at": "2024-09-13 14:00:20.767373",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "64b74575-e586-4e2e-8150-f565d935c731",
-    "installed_at": "2024-09-13 17:31:32.718508",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "b7784d52-b97e-4604-a597-f35a1fcbbb38",
-    "installed_at": "2024-09-13 00:57:51.680618",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "62031bd4-e631-49e7-9fc7-b37df8bda6a8",
-    "installed_at": "2024-09-13 05:21:58.318043",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "1c4fff0b-c65b-4f9b-aa55-6bc1958f2d7b",
-    "installed_at": "2024-09-13 22:26:36.774221",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "5659cb98-cbb1-47c8-a929-c5f725b63804",
-    "installed_at": "2024-09-13 17:58:45.979697",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "d67cf7c3-0c5f-49f2-8c86-b3e54433a3f2",
-    "installed_at": "2024-09-13 17:50:49.896490",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "4d0fb686-8559-4330-8947-ff4ccad1a40a",
-    "installed_at": "2024-09-13 15:02:16.483268",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "d1ee4bbb-b865-4b8e-bca2-dae407665102",
-    "installed_at": "2024-09-13 00:47:08.167740",
-    "network_name": "Google",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "3b2906d4-fa99-4d11-a342-5889eec32dc9",
-    "installed_at": "2024-09-13 05:51:44.902835",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "ef2c148b-8f3a-46fd-800c-0896c0d20626",
-    "installed_at": "2024-09-13 18:30:41.800218",
-    "network_name": "Google",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "48b0371e-2da2-46a4-a6d1-80fceef94fe5",
-    "installed_at": "2024-09-13 16:40:58.308178",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "30ec3688-b8f9-4cca-9889-467c711a5842",
-    "installed_at": "2024-09-13 15:14:35.255609",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "039e5b24-5853-4295-bf55-310ba27b4851",
-    "installed_at": "2024-09-13 13:45:47.627444",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "fe010897-447e-46f4-bd1a-331980eb7844",
-    "installed_at": "2024-09-13 21:41:59.341125",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "42da1e90-8388-4d03-aaa9-8d1d709f27b4",
-    "installed_at": "2024-09-13 06:30:15.904277",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "de6f9f3a-19b9-45da-bb31-2973586c34a2",
-    "installed_at": "2024-09-13 00:18:18.789513",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "0c8c0f42-2631-42b3-a20f-a23d8c0cf360",
-    "installed_at": "2024-09-13 03:29:30.913100",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "8781c869-ee72-4f8b-b062-fe10e88ece2a",
-    "installed_at": "2024-09-13 20:24:19.199381",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "56cea54d-daeb-4f3f-adda-9ff0a5724da3",
-    "installed_at": "2024-09-13 17:46:38.041069",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "5e2a99a7-44d8-493f-b6be-62cf1f6a46c7",
-    "installed_at": "2024-09-13 09:17:39.155712",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "265ce4b9-7722-418f-ac2f-97dc2beef487",
-    "installed_at": "2024-09-13 08:35:30.261883",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "b76516ff-b58e-4ef9-af14-03cf14b8969b",
-    "installed_at": "2024-09-13 16:48:34.185229",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "3f6eeb3e-6797-4def-ad6a-43c5bd0250bc",
-    "installed_at": "2024-09-13 14:50:35.639124",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "bbaa882a-a021-4b14-b601-371268b0c529",
-    "installed_at": "2024-09-13 14:41:11.069453",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "18d74f63-633e-4a39-a86a-594943f01290",
-    "installed_at": "2024-09-13 07:10:50.721031",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "f4049b18-9931-433e-9b0f-f288fbabac8b",
-    "installed_at": "2024-09-13 12:40:02.676470",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "860233a6-a902-45d7-b9b6-472a1817f900",
-    "installed_at": "2024-09-13 09:58:34.671262",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "0fb23857-a164-494d-a2d2-a3e55ec625c0",
-    "installed_at": "2024-09-13 13:35:39.951347",
-    "network_name": "Google",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "0416e6bd-c4a3-4f26-bc7e-9d560174752d",
-    "installed_at": "2024-09-13 03:08:04.242091",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "dc0022a3-e4fd-444a-b75e-e0731de01852",
-    "installed_at": "2024-09-13 14:28:41.451395",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "ebdbf707-ee77-4db1-a397-977e3f36f76e",
-    "installed_at": "2024-09-13 11:20:20.261482",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "5e31ef4d-ed0b-4412-bfa4-7cca8dca3f1c",
-    "installed_at": "2024-09-13 04:22:47.709342",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "7da45811-89ea-4f0d-87a4-7035c0503a40",
-    "installed_at": "2024-09-13 12:15:38.391589",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "3a6fb578-67f7-4233-a524-29da5e07619a",
-    "installed_at": "2024-09-13 09:53:52.966136",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "18326e81-f817-4412-aac7-7060708caa85",
-    "installed_at": "2024-09-13 03:57:46.134517",
-    "network_name": "Google",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "25fb988a-79e0-4fcf-9186-f2423d7eb35c",
-    "installed_at": "2024-09-13 19:21:27.977395",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "02a4ad30-6244-46ed-9d7a-19979f1f3d4a",
-    "installed_at": "2024-09-13 10:00:03.584324",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "21543f84-3dce-41a9-82e6-d49d0a8e367b",
-    "installed_at": "2024-09-13 19:31:07.347016",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "40d15df0-078e-48ac-b4a8-01ad20d8c381",
-    "installed_at": "2024-09-13 22:08:11.389025",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "3c4a93f1-f10e-402d-80f2-559425b0ff4e",
-    "installed_at": "2024-09-13 17:55:44.642091",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "1cc43168-cda9-4efd-9996-c7b234fece33",
-    "installed_at": "2024-09-13 23:49:32.494874",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "ac233208-0906-41a9-8d61-9a900021f6d7",
-    "installed_at": "2024-09-13 12:30:31.264992",
+    "user_id": "4b8ed0e9-3615-41b0-9ff0-d0668b5815dd",
+    "installed_at": "2024-09-14 23:07:50.508178",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "a6427b2c-47dd-43fd-be86-239f6714054f",
-    "installed_at": "2024-09-13 21:27:43.210900",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "0258e2c8-3e77-4b9d-958f-3eaf5e793539",
-    "installed_at": "2024-09-13 23:33:41.670400",
-    "network_name": "Google",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "9d7f2b86-5027-441b-a2fe-08d5c3d4c59c",
-    "installed_at": "2024-09-13 20:14:28.335854",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "d6f48c6b-3768-4505-a9cd-0f8291a9620f",
-    "installed_at": "2024-09-13 05:45:06.986553",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "c2e66647-acbc-43d9-b4df-2c6a10e4c55c",
-    "installed_at": "2024-09-13 08:49:14.946633",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "6d30e20f-a664-4dcd-a927-b2633345d292",
-    "installed_at": "2024-09-13 01:00:04.798034",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "9e89f713-7764-4b9f-8136-76ddad1afe27",
-    "installed_at": "2024-09-13 05:33:37.230427",
+    "user_id": "f10b0970-b502-4339-bc6a-c767f37e99a8",
+    "installed_at": "2024-09-14 18:00:49.734683",
     "network_name": "ironSrc",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "21f667bd-3eec-438f-872e-0e641499e885",
-    "installed_at": "2024-09-13 17:16:32.246321",
-    "network_name": "Unity",
+    "user_id": "baa2b62d-887a-404d-9a24-7da74884e69e",
+    "installed_at": "2024-09-14 15:26:23.102738",
+    "network_name": "ironSrc",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "92baca62-afe9-457b-abc9-be2d27fd22bb",
-    "installed_at": "2024-09-13 08:28:10.619715",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "66764628-4229-4590-a76e-c58b827483b1",
-    "installed_at": "2024-09-13 01:00:20.717935",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "9118a560-e8e8-4957-a7ab-4e96ed121b92",
-    "installed_at": "2024-09-13 14:36:02.523700",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "c5a9f768-9b56-42b6-98b1-0b3164715109",
-    "installed_at": "2024-09-13 02:54:44.577705",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "419b43f9-f47f-4306-83c0-5a83875d2e97",
-    "installed_at": "2024-09-13 07:32:09.864314",
+    "user_id": "c7d680d2-073b-4a6a-b399-70cf6d8cb951",
+    "installed_at": "2024-09-14 13:53:39.697757",
     "network_name": "TikTok",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "1fc5fb94-8ee4-4dbb-95cf-aece2ca51645",
-    "installed_at": "2024-09-13 18:37:22.445069",
+    "user_id": "0574b91e-ec04-47c6-bf97-671efac7dd50",
+    "installed_at": "2024-09-14 22:13:43.046643",
     "network_name": "Mintegral",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "b38d9da2-ca5d-435b-b215-6a1993bb0f7c",
-    "installed_at": "2024-09-13 19:02:57.434352",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "c45f1b0a-967c-4acc-b411-12c09b96caac",
-    "installed_at": "2024-09-13 21:11:47.862045",
+    "user_id": "5d143f35-3816-45be-90a5-dc555768f860",
+    "installed_at": "2024-09-14 00:45:02.225583",
     "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "0d5d0127-c47b-443e-88a7-59b2c8401729",
-    "installed_at": "2024-09-13 06:12:28.504858",
-    "network_name": "Vungle",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "a30ab079-6079-4baa-888c-e4305d187405",
-    "installed_at": "2024-09-13 03:09:08.341616",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "7f8eb031-3ad5-4920-bab2-bbc317fb95c9",
-    "installed_at": "2024-09-13 00:07:48.545896",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "38a2c1fa-3f3e-4837-a66f-3675f7c6e72a",
-    "installed_at": "2024-09-13 06:19:35.937441",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "9f9a2bba-1670-49fc-a762-aa9e387be474",
-    "installed_at": "2024-09-13 14:11:00.767654",
-    "network_name": "Google",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "0190b6ef-e88e-4ac9-910d-a4b2478a0f3f",
-    "installed_at": "2024-09-13 04:36:11.124242",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "41f35323-ddeb-400e-8247-c44f673769d8",
-    "installed_at": "2024-09-13 12:59:47.654381",
+    "user_id": "f41f4fb3-893e-4396-981b-f6ecdf03bcdd",
+    "installed_at": "2024-09-14 17:28:54.643450",
     "network_name": "Unity",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "2402f3f6-6ef3-4a2a-a3c7-ba35f3ffc9d0",
-    "installed_at": "2024-09-13 16:57:45.285330",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "37eaf3d0-28ce-43d7-b143-3150222b5073",
-    "installed_at": "2024-09-13 19:52:34.519646",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "d44044a1-3f85-45d8-aef9-e90e1e3eb1d9",
-    "installed_at": "2024-09-13 17:26:07.522790",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "3d906362-5b23-4992-90c8-d97fc9bc851f",
-    "installed_at": "2024-09-13 04:17:30.677991",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "c89c28bb-c3d8-41bf-9c22-e6269b7fe724",
-    "installed_at": "2024-09-13 09:39:36.620019",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "2f7c46b0-3fbc-48a9-b649-526eb5aeb31b",
-    "installed_at": "2024-09-13 17:01:13.349483",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "792dac46-ee53-47b4-af04-5ff19b494bf9",
-    "installed_at": "2024-09-13 22:54:15.286003",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "08ae7c84-b4a4-4468-a7ed-a6ffca0329ac",
-    "installed_at": "2024-09-13 00:07:05.609641",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "bcb3dc01-5638-494d-a218-4d219917e50f",
-    "installed_at": "2024-09-13 21:02:25.688714",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "720758a9-9f2a-44db-9fe0-877f7a873f69",
-    "installed_at": "2024-09-13 09:30:57.480210",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "4d22ad2c-7b50-4b29-8d36-5fa4de26f31c",
-    "installed_at": "2024-09-13 12:52:01.022046",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "f4525a78-cccc-469e-a355-b2e5f76f5342",
-    "installed_at": "2024-09-13 15:16:24.179137",
-    "network_name": "AppLovin",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "a038bf38-5c1c-4ef9-adcb-5b4618c6ee9e",
-    "installed_at": "2024-09-13 04:17:34.820231",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "071ba9c9-afc6-45ff-991d-20a86e0cf04d",
-    "installed_at": "2024-09-13 21:08:50.479611",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "0f528064-fcdf-47c1-b932-d821169632dc",
-    "installed_at": "2024-09-13 20:07:12.821169",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "d29cbffe-5444-41a4-990e-ca6b4eeae709",
-    "installed_at": "2024-09-13 17:57:46.354340",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "ec3722b0-9415-4769-9b15-3633e65c3af4",
-    "installed_at": "2024-09-13 05:33:59.720366",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "e42a7dc5-be70-4cee-82b6-7b1d586bd946",
-    "installed_at": "2024-09-13 18:49:29.198597",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "66496f1b-ed0b-419d-b80e-95d8aa0c6ea0",
-    "installed_at": "2024-09-13 20:45:36.652397",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "4bbe4726-f6b1-4108-ad45-fe3eed169a81",
-    "installed_at": "2024-09-13 20:17:11.402660",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "9dc3aae8-21c4-4239-a500-69e427003e87",
-    "installed_at": "2024-09-13 12:02:43.137829",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "3e2bac0a-b1fb-42e3-b33c-9974753a5a35",
-    "installed_at": "2024-09-13 19:56:39.067822",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "9b698d04-b314-42de-a4af-32dfae61f1bd",
-    "installed_at": "2024-09-13 08:02:56.157305",
+    "user_id": "9265e917-ac95-4b76-a2d4-69510a65f6d1",
+    "installed_at": "2024-09-14 08:34:47.457950",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "8434ab82-3067-4e16-91c4-23db10902c4c",
-    "installed_at": "2024-09-13 18:57:39.049201",
-    "network_name": "Mintegral",
+    "user_id": "5e9822d2-02e3-42f5-a8a4-d9d1ddb3bf6a",
+    "installed_at": "2024-09-14 10:01:42.669995",
+    "network_name": "TikTok",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "6ebb1b80-2c7c-4cc7-a8a3-8e25b03e2b52",
-    "installed_at": "2024-09-13 03:15:43.318400",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "af5dbd99-eb43-45ce-b684-0dd7e134a144",
-    "installed_at": "2024-09-13 21:35:04.740542",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "1ab8d1da-b790-416e-a01f-5e47df61c728",
-    "installed_at": "2024-09-13 17:55:25.763382",
+    "user_id": "556c9f74-3f66-4214-b825-4923577ba2f4",
+    "installed_at": "2024-09-14 00:44:37.818523",
     "network_name": "Unity",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "b9802539-63a6-4695-8993-0b5c31fa66a9",
-    "installed_at": "2024-09-13 11:09:56.033293",
+    "user_id": "05fb5fb9-d060-4bd6-be86-c7aed80ee4e5",
+    "installed_at": "2024-09-14 21:40:37.844489",
     "network_name": "ACME Installs",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "04390d02-1526-4e37-83d5-3944b01c394c",
-    "installed_at": "2024-09-13 03:12:59.975236",
+    "user_id": "c64cd062-f4fb-409d-ad6c-4ef2f980e85d",
+    "installed_at": "2024-09-14 17:35:46.471289",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "e87975a6-da6c-416a-bb7b-529563b39f51",
+    "installed_at": "2024-09-14 13:36:25.931528",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "1227b463-42d7-4586-89fd-0920c86e165d",
+    "installed_at": "2024-09-14 05:34:22.662994",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "aa574954-4ec1-41bc-918c-2d0e624dbc7b",
+    "installed_at": "2024-09-14 00:48:00.326463",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "63a4ff84-b873-46d8-8289-97717e74d736",
+    "installed_at": "2024-09-14 10:46:51.393554",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "90a3717a-4e46-4842-8536-dc37afb0688d",
+    "installed_at": "2024-09-14 21:17:01.608661",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "06949848-5cf2-4ba7-a83b-615f534a6336",
+    "installed_at": "2024-09-14 16:27:26.221177",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "9f614de0-3ed4-4766-8f82-285e2f3151a1",
+    "installed_at": "2024-09-14 13:26:23.282725",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "d1b57af9-14df-4eb8-932a-fd2b48bed789",
+    "installed_at": "2024-09-14 19:03:47.111867",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "88953f11-cc27-4dfd-a8b3-446183a3b728",
+    "installed_at": "2024-09-14 04:58:57.918997",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "a5f39ee6-3a35-47e1-9ebc-f0b383051e5e",
+    "installed_at": "2024-09-14 21:31:29.934956",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "575b60a2-2782-4d28-9090-fe51f5f7cb91",
+    "installed_at": "2024-09-14 04:15:18.616421",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "1b6c24c6-f333-445a-9b50-965ab58f9987",
+    "installed_at": "2024-09-14 10:57:10.901346",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "bddc728c-5395-43da-bdc5-f454c691fc2e",
+    "installed_at": "2024-09-14 14:38:56.916206",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "e35b7450-f22b-481a-8845-72cca23ddec8",
+    "installed_at": "2024-09-14 04:31:21.269971",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "788248fe-eb8d-4741-b5cc-9c55abcb3409",
+    "installed_at": "2024-09-14 08:54:20.525433",
     "network_name": "Vungle",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "61ac2c2e-cab6-4741-a7c2-7fb91cb1c83c",
-    "installed_at": "2024-09-13 04:16:00.042926",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "e2fc945a-0549-4937-8152-0738a1542339",
-    "installed_at": "2024-09-13 20:53:53.348229",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "b5b05e57-5721-4ff7-894a-176dba4a59fd",
-    "installed_at": "2024-09-13 13:45:40.146447",
+    "user_id": "7960c925-d138-4c79-ad28-e752dccb40bb",
+    "installed_at": "2024-09-14 06:47:45.940555",
     "network_name": "Vungle",
-    "campaign_name": "Campaign_2"
+    "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "82c74de7-77de-4f84-9ef3-1481e106d4f7",
-    "installed_at": "2024-09-13 07:39:48.956486",
+    "user_id": "62758e1e-57cc-4f7a-82e8-cec92533d2ce",
+    "installed_at": "2024-09-14 07:59:38.239837",
     "network_name": "Mintegral",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "b6c5e850-1926-46ef-856c-d57c6da15eb0",
-    "installed_at": "2024-09-13 20:51:12.066076",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "4c3e613b-cbb5-4b7c-b2e9-f2d205e5b9d5",
-    "installed_at": "2024-09-13 20:42:45.211274",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "4348dfb7-f42f-4297-9fd3-c08d4b5ce16f",
-    "installed_at": "2024-09-13 20:18:13.832713",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "a61dd861-a651-4cb4-bc96-35a15d43ebd0",
-    "installed_at": "2024-09-13 18:10:54.235641",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "82107ad4-a91d-4809-9dc5-958519b5ec2a",
-    "installed_at": "2024-09-13 17:02:53.119474",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "40db4702-0da2-430a-9fa8-1cd0c4f596a4",
-    "installed_at": "2024-09-13 15:04:01.775945",
+    "user_id": "53624b5a-6b17-4168-babf-adee3ee639e8",
+    "installed_at": "2024-09-14 20:35:11.517499",
     "network_name": "Google",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "b361f5fc-aee4-41f3-b3bc-0ae3c819d9cf",
-    "installed_at": "2024-09-13 02:02:14.361242",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "3ee2073a-b65e-4fce-99d2-1733e0d6e825",
-    "installed_at": "2024-09-13 18:54:52.199206",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "2e11521d-ec18-45c0-9597-a5a176157fc5",
-    "installed_at": "2024-09-13 17:13:07.957404",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "6a69351b-7214-4661-8098-13f341503dd6",
-    "installed_at": "2024-09-13 02:33:07.278037",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "446d372b-1687-4cda-ab0c-136f5691cf49",
-    "installed_at": "2024-09-13 11:26:14.858531",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "9282e86b-0ed5-408a-8257-fb2945d1900f",
-    "installed_at": "2024-09-13 14:18:11.312196",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "a9709501-26a2-4bf4-abb8-2b5c11dc64b1",
-    "installed_at": "2024-09-13 17:21:37.498266",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "f515ec1a-2e61-47a9-be82-6b9123ddbfd6",
-    "installed_at": "2024-09-13 22:30:53.959213",
+    "user_id": "a3838035-cdda-436e-b45c-b9144580f523",
+    "installed_at": "2024-09-14 01:43:16.118910",
     "network_name": "Mintegral",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "67d894ba-4c04-4813-998f-64f3cdd77a95",
-    "installed_at": "2024-09-13 08:04:45.665803",
-    "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "17f99720-75f5-4672-b6cc-0b2af8ce2b9b",
-    "installed_at": "2024-09-13 19:41:55.605761",
+    "user_id": "0633bdbc-9166-4677-bc13-4fd1bf70b528",
+    "installed_at": "2024-09-14 03:06:58.252101",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "510880aa-0fdc-4b82-b439-66de3ce5ef7b",
-    "installed_at": "2024-09-13 03:31:04.815203",
+    "user_id": "4d7e5b4f-ed36-4ba6-bfcd-4d845868ff7b",
+    "installed_at": "2024-09-14 20:47:50.807424",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "e93259e6-46f7-482a-ab51-ed4a701504ae",
+    "installed_at": "2024-09-14 21:42:03.511330",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "f99fe173-0bea-43e6-9e5f-e66450577771",
+    "installed_at": "2024-09-14 22:04:22.250928",
     "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
+    "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "87fc7dcf-5d95-4efb-87d4-1e9daf90925d",
-    "installed_at": "2024-09-13 07:21:34.079266",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "8ed53b14-dc9c-44a4-a760-f00decf01e9e",
-    "installed_at": "2024-09-13 20:00:57.118002",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "c61de8c5-bf4a-4bd5-8d88-0ac1bf5c1572",
-    "installed_at": "2024-09-13 15:25:09.865378",
+    "user_id": "a34cf6df-257b-458b-afc3-fa4721a151ed",
+    "installed_at": "2024-09-14 21:56:49.426119",
     "network_name": "Vungle",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "9c59716e-e896-4104-b96f-f07c6f4df0b8",
-    "installed_at": "2024-09-13 18:53:35.325433",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "13fef00e-6056-432d-a5bc-de3c3dc98673",
-    "installed_at": "2024-09-13 15:04:37.128396",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "8a93a94a-f63c-4438-8b5d-5423998b311e",
-    "installed_at": "2024-09-13 15:27:01.767975",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "9d607fe0-1eea-4021-8720-55fd3b6a2a2b",
-    "installed_at": "2024-09-13 14:22:54.137624",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "05eb001d-899d-4a2a-b6ee-4005d1bc2453",
-    "installed_at": "2024-09-13 17:06:39.025549",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "9532119b-a6c2-4186-900a-bc8823115b7b",
-    "installed_at": "2024-09-13 04:44:40.723661",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "4fc03ae9-81d5-4e96-ab7c-cf49a58baea4",
-    "installed_at": "2024-09-13 10:49:00.662684",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "0692ba65-b2a4-42ee-8293-1d2feb419182",
-    "installed_at": "2024-09-13 02:01:43.121430",
-    "network_name": "TikTok",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "84e1d391-1d89-471a-b42c-18d737ca7bce",
-    "installed_at": "2024-09-13 11:03:40.519251",
-    "network_name": "ACME Installs",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "b1278ef9-5261-4c84-b8d1-2100c02da43d",
-    "installed_at": "2024-09-13 06:21:56.846662",
-    "network_name": "ironSrc",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "f465d105-5296-45fa-b21f-f63e79290d77",
-    "installed_at": "2024-09-13 11:48:00.360115",
+    "user_id": "1b34e1f8-1af8-407a-8952-a2d0ff80faaf",
+    "installed_at": "2024-09-14 16:18:16.947906",
     "network_name": "Unity",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "44478040-1c9d-48c5-ace5-85fc567efc88",
-    "installed_at": "2024-09-13 10:47:28.769225",
-    "network_name": "ACME Installs",
+    "user_id": "27bd023c-2eee-414a-b96f-df02568d3710",
+    "installed_at": "2024-09-14 02:30:09.541263",
+    "network_name": "Google",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "8aca24e2-462c-42c6-91e8-b809927295de",
-    "installed_at": "2024-09-13 13:01:00.097889",
+    "user_id": "78d60ff7-df5e-41df-bf22-5554bf40d97b",
+    "installed_at": "2024-09-14 03:05:34.162224",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "a4e70c42-d62a-4a01-983e-b74f17d30eb4",
+    "installed_at": "2024-09-14 05:58:24.413482",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "d09398b9-7b16-4772-ae68-ff35cd8f1e9c",
+    "installed_at": "2024-09-14 04:14:58.485726",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "a11f283a-884c-4112-92cd-4ddbb147bac7",
+    "installed_at": "2024-09-14 19:20:25.060089",
     "network_name": "Google",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "e1e5f1dc-0a94-4965-aca5-a5c000555acd",
-    "installed_at": "2024-09-13 22:43:18.293720",
+    "user_id": "4a97f142-25db-4b0a-b371-ca4c4f40239d",
+    "installed_at": "2024-09-14 14:45:08.971554",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "a8fce880-16ab-42da-8d41-1f1662d2de74",
+    "installed_at": "2024-09-14 08:58:18.612547",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "e472be83-2797-4555-b012-bd297b971136",
+    "installed_at": "2024-09-14 06:24:24.110537",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "ef1e8f2f-3d5c-405d-8b9c-9c79bac4db39",
+    "installed_at": "2024-09-14 16:00:15.444061",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "921c1558-97d2-4cc2-bd27-ad98d254ade8",
+    "installed_at": "2024-09-14 01:48:00.661601",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "1c6c16b7-d67a-4ece-9eef-60e49e1eab49",
+    "installed_at": "2024-09-14 07:38:55.516640",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "c36c478d-8bdc-4cd2-90cb-b73ad77d215d",
+    "installed_at": "2024-09-14 23:00:56.054592",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "3484d825-d400-4aa0-9c34-9fa36fb5d7b8",
+    "installed_at": "2024-09-14 15:15:23.605550",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "d1601188-6664-4d78-ae13-e7bf8d627646",
+    "installed_at": "2024-09-14 03:25:06.137465",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "05c0f44d-1a15-4288-8520-920b839fb694",
+    "installed_at": "2024-09-14 21:57:57.375006",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "d8d2ccc6-cac9-403e-9c97-973ceffb2219",
+    "installed_at": "2024-09-14 13:32:32.424854",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "f9242f10-88b6-4843-a661-a40187181005",
+    "installed_at": "2024-09-14 08:10:22.456141",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "79de0420-40da-4bb7-b986-b85e6e838169",
+    "installed_at": "2024-09-14 14:57:25.313324",
     "network_name": "TikTok",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "9ec722ea-f7a8-45ba-a5bf-fa87baebd3e2",
-    "installed_at": "2024-09-13 04:46:50.652318",
+    "user_id": "6e0960c0-e3e0-4a9d-968a-ad330cd7fe38",
+    "installed_at": "2024-09-14 00:38:48.173223",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "de4c2c40-f573-4572-9251-f1c05a3cb226",
+    "installed_at": "2024-09-14 20:29:32.364505",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "84bf4b1d-b1c3-4bc8-851b-ab530eb648a1",
+    "installed_at": "2024-09-14 01:45:36.339644",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "196e3b44-0df6-4568-8cb0-5dc0daf01094",
+    "installed_at": "2024-09-14 16:54:29.993535",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "a8481694-d3ae-4b2d-aa62-cfaf5155610e",
+    "installed_at": "2024-09-14 02:46:02.497861",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "0b869b78-7a7a-44b3-84c1-b445fad11a77",
+    "installed_at": "2024-09-14 15:19:30.677955",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "b0bcffbe-51bc-4953-ae0e-b70336510cbb",
+    "installed_at": "2024-09-14 23:27:28.277441",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "3d2543b0-f251-4fbb-a6c6-f0d69fc2529f",
+    "installed_at": "2024-09-14 05:24:34.359071",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "8d4d093a-e82d-43a7-a1ec-4753c5363eda",
+    "installed_at": "2024-09-14 04:08:11.176103",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "65ecdaa0-4036-46c9-8d85-e8c915cacb81",
+    "installed_at": "2024-09-14 07:10:10.925760",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "7ef27547-78c7-43f2-bac6-64a062f9f316",
+    "installed_at": "2024-09-14 00:26:27.266840",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "92f0d6da-f8a8-451c-9333-9e4439561278",
+    "installed_at": "2024-09-14 22:26:33.462434",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "4aa3f536-4df6-470c-ad50-9aefe190440b",
+    "installed_at": "2024-09-14 02:29:45.919374",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "cdea8f92-c8f8-4432-911c-8b16ae0607f7",
+    "installed_at": "2024-09-14 02:56:25.090074",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "1b839a5f-a7b6-4ede-b006-481146f7e332",
+    "installed_at": "2024-09-14 15:06:49.522154",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "6ff35560-b22b-4bb8-a662-3f06fc4b26a3",
+    "installed_at": "2024-09-14 05:27:31.592941",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "eaf46370-68ae-45b5-ba0e-660796c20cfe",
+    "installed_at": "2024-09-14 22:06:32.233801",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "245b0292-a06b-4f15-99ff-61a11de037fd",
+    "installed_at": "2024-09-14 02:48:25.026455",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "92f93681-0658-406b-b470-d867a4b3a7c7",
-    "installed_at": "2024-09-13 22:41:36.569824",
+    "user_id": "a2ba9dbc-a299-46b4-86fd-01a1803129c9",
+    "installed_at": "2024-09-14 04:46:56.216738",
     "network_name": "Unity",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "f55a02d6-dd67-4a94-a881-7fef3a9c0a8c",
-    "installed_at": "2024-09-13 22:26:36.105352",
-    "network_name": "Mintegral",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "6d2f6fb4-3a59-4726-837e-a64b0cc0b70c",
-    "installed_at": "2024-09-13 07:36:20.718350",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_2"
-  },
-  {
-    "user_id": "be06396f-7af2-41ce-bcc7-8841ce4c4c6c",
-    "installed_at": "2024-09-13 21:11:29.097609",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "2e53bb85-b2cf-4d62-a300-db6df1f37132",
-    "installed_at": "2024-09-13 13:33:32.909105",
+    "user_id": "c44dfe82-1f14-4082-8d28-e930f67c9a07",
+    "installed_at": "2024-09-14 12:43:39.653972",
     "network_name": "Google",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "1a44639a-1d53-4cd1-8c5d-06d2faa19598",
-    "installed_at": "2024-09-13 17:34:17.617270",
-    "network_name": "Mintegral",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "7dd073d4-722a-44f6-b096-647dce189ff9",
-    "installed_at": "2024-09-13 07:30:41.788260",
+    "user_id": "676d0067-f3c1-4501-bead-f123269541b5",
+    "installed_at": "2024-09-14 18:30:10.303771",
     "network_name": "ACME Installs",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "35b3fc9b-76d6-49a4-aa47-e2bd4d801bc7",
-    "installed_at": "2024-09-13 07:52:49.603489",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "fa00fb31-c8e6-4dec-8b21-e48ae0db0f9b",
-    "installed_at": "2024-09-13 05:46:02.951148",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "8581f0e8-b1e7-45c6-83fd-0f3e08c82245",
-    "installed_at": "2024-09-13 15:43:08.894506",
-    "network_name": "Vungle",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "8de4c5fc-d0a0-4726-b881-cc499f7aa944",
-    "installed_at": "2024-09-13 02:51:51.313762",
-    "network_name": "Unity",
-    "campaign_name": "Campaign_1"
-  },
-  {
-    "user_id": "83ba42e4-99ac-4a75-8802-ace9f4961d4d",
-    "installed_at": "2024-09-13 03:17:04.451779",
+    "user_id": "f29b5904-d4b6-4e3f-b65b-c7f03e7fba39",
+    "installed_at": "2024-09-14 02:06:22.717033",
     "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "d76b1785-149d-4074-a473-790bd2e0f7ab",
+    "installed_at": "2024-09-14 00:15:18.132321",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "fa07dae4-df8a-4f3d-8c25-45357c7eb923",
+    "installed_at": "2024-09-14 11:17:59.470248",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "64ccc2fc-c4c5-40a9-b385-5a0f3e9db1ce",
+    "installed_at": "2024-09-14 00:22:28.505887",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "9dee0395-d27e-48a3-bde9-908b7da3f1e8",
+    "installed_at": "2024-09-14 10:57:24.994268",
+    "network_name": "Vungle",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "b965675c-08d6-40dc-b396-1cf5583c1522",
-    "installed_at": "2024-09-13 08:49:50.694268",
+    "user_id": "c39f5140-2805-4795-ac4b-eb0abb077209",
+    "installed_at": "2024-09-14 17:34:13.706853",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "2ef043ac-1fbc-4cfc-a340-c20402166b60",
+    "installed_at": "2024-09-14 22:12:04.228418",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "81d3bf3c-e7c3-4145-a8fe-31ce1a154290",
+    "installed_at": "2024-09-14 01:54:04.269283",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "625fd691-e09c-4ea4-a04d-a0fccb5eb166",
+    "installed_at": "2024-09-14 04:14:19.001475",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "480322bc-4b0e-4503-a570-ef0bebd3e8e6",
+    "installed_at": "2024-09-14 18:31:52.557655",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "f76d9f6e-1b1e-450e-ab6f-39853e8992e2",
+    "installed_at": "2024-09-14 11:52:43.842165",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "43735e25-a477-485e-9d5f-f4abfd1176ff",
+    "installed_at": "2024-09-14 19:38:34.558878",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "2ac91265-f39f-4c09-9354-0b1a319b4a86",
+    "installed_at": "2024-09-14 03:58:12.416857",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "225682ed-1104-42b9-b181-52771f5b51b1",
+    "installed_at": "2024-09-14 16:50:33.195771",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "03214b1f-96af-4418-951f-064dc3e3d994",
+    "installed_at": "2024-09-14 11:19:09.157381",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "e6f8ef91-d861-41c9-98e6-cbb8e82ece9b",
+    "installed_at": "2024-09-14 20:10:57.021195",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "081e39d3-3d60-4931-b7a2-22c0f93b6706",
+    "installed_at": "2024-09-14 15:09:45.505647",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "f8d08149-cd2b-41de-85c6-4d05909b7b21",
+    "installed_at": "2024-09-14 21:49:42.478869",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "7c95bd2c-b17d-43d1-ac03-7cb7e5eae6ee",
+    "installed_at": "2024-09-14 18:33:44.282058",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "927bab9c-59d1-4c2c-8de8-bc71f94a0a5f",
+    "installed_at": "2024-09-14 22:46:41.686010",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "83b45b11-cd27-426f-a86b-4a0d05f31e13",
+    "installed_at": "2024-09-14 17:48:54.731544",
     "network_name": "AppLovin",
     "campaign_name": "Campaign_2"
   },
   {
-    "user_id": "e625a9e9-e632-4464-9f1d-506bd83cf82e",
-    "installed_at": "2024-09-13 16:57:36.496530",
+    "user_id": "839ada47-5f4d-4a8d-8f03-913649933f55",
+    "installed_at": "2024-09-14 11:59:36.536075",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "3eaee0d4-04de-4208-b311-07764b96bdba",
+    "installed_at": "2024-09-14 04:55:28.198359",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "f5ae481a-c176-42d3-bfce-c19e12be2979",
+    "installed_at": "2024-09-14 13:20:18.493866",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "e51770f4-f76d-4d2c-9206-e51b48a676cb",
+    "installed_at": "2024-09-14 07:53:25.976560",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "f14855f2-6669-420a-9bc8-9e916ab7b20d",
+    "installed_at": "2024-09-14 02:31:25.954596",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "683d8edf-5c34-4f29-90ad-8ce1c336e27a",
+    "installed_at": "2024-09-14 05:54:33.046089",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "68dd90b4-2f38-48c3-b3d1-4ce65639a829",
+    "installed_at": "2024-09-14 18:15:55.497160",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "f9ddd0ad-b117-4102-a211-0336d22f85c0",
+    "installed_at": "2024-09-14 12:01:34.172599",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "e006936c-f6ba-4403-a794-d12d1f19ba9a",
+    "installed_at": "2024-09-14 16:34:03.444631",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "2213c253-c026-4b49-b014-20c718d6d2fb",
+    "installed_at": "2024-09-14 14:22:20.317872",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "b0fecb3d-bb65-4586-9a80-48adf2b779ff",
+    "installed_at": "2024-09-14 12:28:51.293997",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "beaa8f4c-ee2c-4f8c-9016-81de47f5131f",
+    "installed_at": "2024-09-14 13:21:24.249963",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "50f27d12-9380-4cec-a3f4-37ca8fd5f30b",
+    "installed_at": "2024-09-14 01:54:22.039135",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "404d8ffb-cd87-45b7-a0ae-f807a4b14cf3",
+    "installed_at": "2024-09-14 01:54:10.041340",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "7beb4a73-dbd6-460c-83e6-a1edca100db2",
+    "installed_at": "2024-09-14 07:38:19.922662",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "6d99a709-d24a-49c5-8bb8-1ec994354e63",
+    "installed_at": "2024-09-14 20:28:30.808942",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "12fc846b-cb75-416b-ac1b-f7a59a179c08",
+    "installed_at": "2024-09-14 15:35:39.773037",
     "network_name": "Vungle",
     "campaign_name": "Campaign_1"
   },
   {
-    "user_id": "a1e0fb22-18d3-4a3a-a266-b2987e587255",
-    "installed_at": "2024-09-13 17:53:24.316361",
+    "user_id": "39320101-c04e-4c6b-9825-fa70ed1baa4f",
+    "installed_at": "2024-09-14 08:51:58.940653",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "3ef35cf7-e8ae-4c89-8801-b6262a3d9377",
+    "installed_at": "2024-09-14 22:07:41.261430",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "06b05a46-ba79-4535-9e69-7f08ed36774e",
+    "installed_at": "2024-09-14 16:14:35.923517",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "116e875d-5b84-4aea-b388-b50b237bcdf7",
+    "installed_at": "2024-09-14 16:47:00.081889",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "137d57df-ab9a-4fe5-9639-ea9ce6399dc0",
+    "installed_at": "2024-09-14 07:41:57.223569",
     "network_name": "Google",
     "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "6fc42fe2-bd9c-4c13-aaf8-dc4256e5bdef",
+    "installed_at": "2024-09-14 04:09:49.656014",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "6c14e03a-07ef-42c2-963d-cc8edb7fdd84",
+    "installed_at": "2024-09-14 09:18:33.398681",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "f0bdcd7b-2b4a-4fca-a515-0684fbec9806",
+    "installed_at": "2024-09-14 01:40:49.167703",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "b3da2e4f-e739-45d1-b697-7dd2c241af9d",
+    "installed_at": "2024-09-14 03:41:31.126476",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "00c2a311-f1b0-4614-bed3-4d9c894f81a7",
+    "installed_at": "2024-09-14 01:24:41.265966",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "05183836-f347-4fbc-8cff-d598d517f20c",
+    "installed_at": "2024-09-14 05:45:49.519892",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "f9e527a1-9b24-4851-b5a5-dc47bbb2070d",
+    "installed_at": "2024-09-14 17:17:05.576092",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "71294889-f45a-4c40-9f7d-d54964ae6b9a",
+    "installed_at": "2024-09-14 05:26:25.515281",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "d4d08a4d-d9ea-4bd0-859c-fdba91252a9a",
+    "installed_at": "2024-09-14 13:48:50.462462",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "d0bbbf3f-3b72-43ca-b09e-024964a1542c",
+    "installed_at": "2024-09-14 07:30:15.950786",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "3286584a-0888-4e71-972a-408b287ed250",
+    "installed_at": "2024-09-14 10:10:42.810923",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "72ff8069-0216-477e-8799-1d7bde869654",
+    "installed_at": "2024-09-14 17:30:24.151657",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "7daa3b4c-df16-4775-941f-1e8905548ffb",
+    "installed_at": "2024-09-14 10:53:35.102267",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "957d060d-7632-4095-a307-94ea28cafbf8",
+    "installed_at": "2024-09-14 13:53:11.036785",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "27a60c26-af8b-4048-bbc5-789554bd7087",
+    "installed_at": "2024-09-14 13:04:01.537046",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "5bd53d79-8f5c-4a76-8e29-ff300f99c120",
+    "installed_at": "2024-09-14 18:05:36.414703",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "cb5789b7-19f3-4884-8795-e79ff0814cb1",
+    "installed_at": "2024-09-14 12:22:03.955335",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "4c5a6e89-9453-4245-9ebf-39d43f04eed9",
+    "installed_at": "2024-09-14 17:53:17.547581",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "b507a425-3526-46b3-b545-1595aea9c082",
+    "installed_at": "2024-09-14 07:12:36.098339",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "e59a3b3d-4c25-406b-a006-9b1082385519",
+    "installed_at": "2024-09-14 11:23:30.018169",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "7c4d5842-a576-429b-857e-6b76051f1b48",
+    "installed_at": "2024-09-14 09:05:45.845895",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "785801e6-c276-468a-b262-523d2d6396b3",
+    "installed_at": "2024-09-14 01:35:37.544952",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "6f7610ee-03cf-4dc0-b4d5-6a4631d67234",
+    "installed_at": "2024-09-14 17:50:33.825782",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "d4be47fc-9c42-43f6-a49c-cfbaab7c5f06",
+    "installed_at": "2024-09-14 19:42:11.930036",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "bc3c65ea-a942-4e1f-93ee-0c5b04e5b9ba",
+    "installed_at": "2024-09-14 08:03:46.488055",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "3dc4190d-303d-49a5-a6d8-faa1fe369ec7",
+    "installed_at": "2024-09-14 03:38:34.746780",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "cc299a53-3d4a-4047-8165-bcd3ffd8dc4f",
+    "installed_at": "2024-09-14 02:31:00.674724",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "56e7fa2c-1000-40b0-9efe-c8ab4aa53769",
+    "installed_at": "2024-09-14 19:59:51.324269",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "9318af97-487e-4574-a02f-00b1cd488d40",
+    "installed_at": "2024-09-14 08:02:10.370156",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "dc23f3b3-5545-4487-9e05-dfda51fd1fe5",
+    "installed_at": "2024-09-14 17:20:38.917921",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "e21ad804-d20d-45fb-8af1-7cdf37eb263a",
+    "installed_at": "2024-09-14 05:42:17.158038",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "73449593-70c1-498c-9b97-9be510659e4d",
+    "installed_at": "2024-09-14 06:44:34.884479",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "e00f9f70-1541-4580-925b-ecec2824de28",
+    "installed_at": "2024-09-14 12:29:02.423447",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "213d59bd-755a-4b7a-89a4-46b23b3f2f35",
+    "installed_at": "2024-09-14 12:56:14.896154",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "9fa27047-156b-425d-b7cd-a58fb9deaa02",
+    "installed_at": "2024-09-14 12:56:25.542768",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "8a4eeddc-eee9-4ddf-9dd7-8d072d650a56",
+    "installed_at": "2024-09-14 09:16:20.639926",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "2a425c03-a949-4866-be22-6426a719c13b",
+    "installed_at": "2024-09-14 16:53:29.524612",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "02ec4b22-c691-4550-8c5b-f2c2e77ad0fe",
+    "installed_at": "2024-09-14 21:23:08.028192",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "44a0ce17-b15e-43ff-ab72-49573c0352ad",
+    "installed_at": "2024-09-14 22:14:16.441430",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "be94a08b-c10d-41a8-acb8-fd57911e1d7a",
+    "installed_at": "2024-09-14 06:34:19.345090",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "e255f9cb-b227-490a-aa1a-ce705b6b1844",
+    "installed_at": "2024-09-14 17:57:58.739780",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "7942600f-8282-438b-a5d6-f0925f7b0a38",
+    "installed_at": "2024-09-14 03:32:20.083747",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "9627381b-29c6-49da-b47d-740cadeb3cbf",
+    "installed_at": "2024-09-14 06:42:33.128555",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "e14bd3f1-2933-4032-9ab1-fbad1ec6dac5",
+    "installed_at": "2024-09-14 00:24:30.306460",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "231a5d5e-20fd-40e6-bfbf-250f74577025",
+    "installed_at": "2024-09-14 11:42:34.251539",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "293f4ef1-3fb7-4f55-bdb5-ec545e41a928",
+    "installed_at": "2024-09-14 00:37:58.599923",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "168c50e7-bff8-4686-9e14-ec24185450db",
+    "installed_at": "2024-09-14 20:03:35.109392",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "35cbfbba-cbfc-4572-a374-ebff2d5451a5",
+    "installed_at": "2024-09-14 03:28:44.916503",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "ce4c823b-6ae0-4ca1-9c38-77c9b4b742dc",
+    "installed_at": "2024-09-14 10:39:53.331214",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "9d5c9ad3-436e-4ac7-b16b-0e52ca0ef03b",
+    "installed_at": "2024-09-14 18:11:19.136432",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "eb216a31-cec5-4a62-9ac5-75bf628e39a2",
+    "installed_at": "2024-09-14 01:17:43.789251",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "4573ecc0-ccf0-4701-9fb3-611527cea0a6",
+    "installed_at": "2024-09-14 11:15:01.785983",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "3d721a1d-4456-41e7-b963-aa0bc1257b19",
+    "installed_at": "2024-09-14 12:22:31.166133",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "b632237d-4a7e-4ffd-a163-5fd383f363ae",
+    "installed_at": "2024-09-14 19:14:38.677792",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "2ce85a65-866e-4a8e-8cfe-8219fff28686",
+    "installed_at": "2024-09-14 00:29:53.738615",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "99305c18-d2c0-4eaa-8480-d582aab6e31b",
+    "installed_at": "2024-09-14 14:02:19.801671",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "1333c233-7d88-4e28-982e-4f0f24a12fc3",
+    "installed_at": "2024-09-14 11:11:36.858088",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "bd058bdc-b31e-4e07-9928-8744e22a6810",
+    "installed_at": "2024-09-14 22:19:43.879070",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "519670ee-1339-40bc-9571-369ac956ddda",
+    "installed_at": "2024-09-14 20:24:18.397432",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "f5809456-411a-43e1-8794-73d03a726127",
+    "installed_at": "2024-09-14 13:36:31.339429",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "8e4d0622-e671-4f6b-956f-288f306615a9",
+    "installed_at": "2024-09-14 22:16:10.486242",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "ebf7e21e-a35a-49ca-9288-c5ccb28d0f10",
+    "installed_at": "2024-09-14 13:48:47.799487",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "22b1b2f0-d9c1-4d8a-b641-e5fcc877b4dd",
+    "installed_at": "2024-09-14 00:26:05.312419",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "89ec7e07-f2d6-4ecb-8ca8-5be3a2bd0ddb",
+    "installed_at": "2024-09-14 16:20:42.313361",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "24768a8f-22bc-4a92-9591-65e9a7487c01",
+    "installed_at": "2024-09-14 05:05:20.628872",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "ea4e58ff-583d-47be-b32e-5c655f115da9",
+    "installed_at": "2024-09-14 22:11:10.594506",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "244146f7-f47f-4c06-97fd-7136d6e6577e",
+    "installed_at": "2024-09-14 17:21:00.007286",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "74b619eb-4e5f-431f-954e-684590740b9d",
+    "installed_at": "2024-09-14 10:56:35.540546",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "f2dd6ba0-04d7-4ab2-a2d3-7291572dbc7c",
+    "installed_at": "2024-09-14 18:16:53.339967",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "bf3d8fd9-9f8b-43cc-a55d-6952c8bc855a",
+    "installed_at": "2024-09-14 23:33:03.051113",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "e5986135-b493-426a-bfa6-83fb67ea3b9e",
+    "installed_at": "2024-09-14 19:07:39.447626",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "06e5fbb4-5341-4edc-af64-68b4f1a1337c",
+    "installed_at": "2024-09-14 10:51:10.903325",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "8cbf9590-cb40-475a-8a76-c016118a988a",
+    "installed_at": "2024-09-14 20:39:19.513705",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "8f265f48-817f-40ae-9a96-5a3f29a58551",
+    "installed_at": "2024-09-14 06:14:31.425139",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "12c64945-5d7d-4ea0-9d92-290d60a48abe",
+    "installed_at": "2024-09-14 18:24:45.231004",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "b45b8d21-2694-48a0-b49e-a890ee7b2b14",
+    "installed_at": "2024-09-14 07:22:17.985786",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "6aa01ed1-c335-4ceb-a565-8077e7b9aa5f",
+    "installed_at": "2024-09-14 20:09:37.707540",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "f4154e25-3414-4c13-96a5-c23d1d84d396",
+    "installed_at": "2024-09-14 05:47:02.464457",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "4167477e-dcdd-40f0-a378-7709521e9696",
+    "installed_at": "2024-09-14 10:38:14.961859",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "0295261c-e9ec-497b-ba38-52ca3b61bee3",
+    "installed_at": "2024-09-14 12:18:10.744424",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "7957a0b6-e802-4105-b9b3-d5323d774663",
+    "installed_at": "2024-09-14 22:51:45.677250",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "dd548cdb-975f-4c74-ac1f-5d1054c9c90d",
+    "installed_at": "2024-09-14 12:22:45.499030",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "535a13d8-664c-48d2-91d1-a6db9241a548",
+    "installed_at": "2024-09-14 15:28:27.149517",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "5a7144bb-f74a-49a4-8b6c-a4d54c7a4abc",
+    "installed_at": "2024-09-14 16:13:21.772719",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "e7862d32-bee0-41fb-84b3-fc34574c04a8",
+    "installed_at": "2024-09-14 23:43:14.575010",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "b808f6f2-ef64-4bea-b704-d1b163754caa",
+    "installed_at": "2024-09-14 09:31:06.363580",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "2a109b02-f158-436f-926f-629deb4c9f5f",
+    "installed_at": "2024-09-14 14:41:35.117527",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "26c1b154-6896-4c4f-9aa0-10a96316947b",
+    "installed_at": "2024-09-14 03:54:02.543886",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "f4323c1e-5e89-493e-9f5d-146445e84052",
+    "installed_at": "2024-09-14 23:52:31.264545",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "ccd35aef-a137-4b8e-bd34-b7db6a3bdbf1",
+    "installed_at": "2024-09-14 06:58:42.550435",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "2e8287b8-cb2c-4a9c-9e65-f04bb492cb73",
+    "installed_at": "2024-09-14 02:44:24.539876",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "3a3a450e-470d-4bce-88b4-c8aab16c1fb1",
+    "installed_at": "2024-09-14 02:11:07.761281",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "960f976a-b287-4b86-9f38-41d9538b23d1",
+    "installed_at": "2024-09-14 03:44:20.605342",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "ab2d7224-eb0a-4578-9903-f9e34ba01ba5",
+    "installed_at": "2024-09-14 06:29:35.049484",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "f0e4afc9-64f2-4e75-abd4-e1dd07690044",
+    "installed_at": "2024-09-14 11:38:24.370036",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "1df0f02c-0957-436c-b600-dc62c3095d3f",
+    "installed_at": "2024-09-14 01:11:02.795374",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "d8fc6f49-1954-43f1-9621-b200dd6cfe79",
+    "installed_at": "2024-09-14 21:25:38.509494",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "3302f871-6c8f-47b8-b70e-595fb047671d",
+    "installed_at": "2024-09-14 18:52:00.670849",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "87c37542-4208-4355-a7d4-84094c43acb7",
+    "installed_at": "2024-09-14 00:20:41.092207",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "7425573f-bb14-4c22-bda7-fc959f62b6f1",
+    "installed_at": "2024-09-14 14:41:08.131194",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "656c0fd2-0868-4184-aa36-6525c55dbbc2",
+    "installed_at": "2024-09-14 06:43:02.733315",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "6da0ed4d-9327-4135-b7f0-120e1677b2a9",
+    "installed_at": "2024-09-14 03:23:08.604998",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "6bf3be2d-02b8-4dad-bb06-0858f6cf128b",
+    "installed_at": "2024-09-14 04:51:29.071301",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "49d74f72-a51a-49f8-864c-c5b9e3170620",
+    "installed_at": "2024-09-14 23:13:10.338770",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "5de4a67a-85c0-44be-bcb3-96d9ce0f19f5",
+    "installed_at": "2024-09-14 05:08:29.214744",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "8933cd3a-50b4-46b8-bd1a-a61078887d0d",
+    "installed_at": "2024-09-14 02:47:51.388808",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "bd05ced8-38cd-4561-83fe-e0f372f438bd",
+    "installed_at": "2024-09-14 12:06:50.973704",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "dc64db6b-74e0-4ac6-a70c-770900095dc3",
+    "installed_at": "2024-09-14 18:28:58.518818",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "bb6ba9c1-0f32-43f6-9f68-a9a8ae17403e",
+    "installed_at": "2024-09-14 01:44:36.453045",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "805763ac-f673-4956-a792-4b5181795262",
+    "installed_at": "2024-09-14 20:38:21.055431",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "ecd0b582-498b-429a-b0fb-e79c6ac735fc",
+    "installed_at": "2024-09-14 15:12:29.137785",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "d57d89a8-bed8-4d61-8e12-7fbb0c8316f2",
+    "installed_at": "2024-09-14 14:56:32.489316",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "144790a9-7126-428a-9c3e-8daddad41d53",
+    "installed_at": "2024-09-14 04:40:14.683965",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "2d365e9e-7801-47e7-8faa-06e04af89709",
+    "installed_at": "2024-09-14 21:14:17.012086",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "935b400e-0365-40ab-b4ab-44ca07d40d30",
+    "installed_at": "2024-09-14 01:53:33.629388",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "6206904e-c5ab-4bda-9284-8435e9768f85",
+    "installed_at": "2024-09-14 06:42:28.840875",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "473ddf3f-7eb5-4abc-9f7c-48b442a02d23",
+    "installed_at": "2024-09-14 17:34:04.771227",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "64aca4fc-404b-4e54-92c1-015980958649",
+    "installed_at": "2024-09-14 11:12:40.868967",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "d1500b6f-23c9-4902-957f-2789d186ec4a",
+    "installed_at": "2024-09-14 08:50:04.106875",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "822557fe-b6df-47e3-aa59-302520714d53",
+    "installed_at": "2024-09-14 21:17:07.272021",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "1ffc8afd-b3a7-4f31-9c88-7c467079256f",
+    "installed_at": "2024-09-14 11:27:08.783523",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "d0934689-57aa-40fb-899a-73da80fc9d05",
+    "installed_at": "2024-09-14 03:38:09.774728",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "1e172eab-2f65-49a2-b8bd-593701fb0e3b",
+    "installed_at": "2024-09-14 05:31:53.650976",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "741d0fd3-ee6d-4d2f-9748-556f20106dab",
+    "installed_at": "2024-09-14 17:32:54.160491",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "fdd7d8fb-cdb1-4c96-a1bc-9886636cf133",
+    "installed_at": "2024-09-14 07:48:42.739414",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "8dd806f0-e8d6-4489-8946-9d6828121e06",
+    "installed_at": "2024-09-14 19:33:53.461810",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "a4a8a6f8-b3b0-45c6-a392-aeff06d2f37a",
+    "installed_at": "2024-09-14 17:52:15.089491",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "30ad883e-35e0-4049-8600-0ad753e169ef",
+    "installed_at": "2024-09-14 06:46:32.890506",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "6f1aaec3-f2f8-4464-b1da-4c9bb58d408e",
+    "installed_at": "2024-09-14 03:49:46.914779",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "902b6571-be07-41d4-92f8-5a4049b24a3a",
+    "installed_at": "2024-09-14 10:19:50.805772",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "5f415ac4-7fee-44cd-8dc0-128214e25298",
+    "installed_at": "2024-09-14 13:36:15.378820",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "4b47391d-de2b-4e73-8c3f-59fe2166f02b",
+    "installed_at": "2024-09-14 11:17:42.504553",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "e30c884c-0a8c-4595-8442-11393487529a",
+    "installed_at": "2024-09-14 05:40:04.010728",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "50db3a19-085d-4690-8e47-56a43d951380",
+    "installed_at": "2024-09-14 01:17:39.770165",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "542ab574-40dd-434e-b4ed-87029f66e9ff",
+    "installed_at": "2024-09-14 16:32:06.907236",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "46c9c2e2-29df-472f-b857-558d4b8ea46d",
+    "installed_at": "2024-09-14 13:36:18.308129",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "a05bbe90-b359-49de-83ae-bb2c1aebf1c1",
+    "installed_at": "2024-09-14 08:19:17.814046",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "3f082fad-51fd-474d-b056-b7e28aeb20e0",
+    "installed_at": "2024-09-14 21:20:31.239373",
+    "network_name": "Google",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "3007e942-264d-4b84-bde2-da5a4416e6aa",
+    "installed_at": "2024-09-14 05:00:49.285613",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "22b21354-02c7-4c9e-b2c2-6daac2d556ff",
+    "installed_at": "2024-09-14 18:00:25.684755",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "e43c5558-6855-4db3-b758-542f8047cfdf",
+    "installed_at": "2024-09-14 09:12:04.526020",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "74491782-b0b9-4e59-9480-04008ac52ef0",
+    "installed_at": "2024-09-14 16:56:23.832532",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "7de6e112-ebb8-4ee8-8e3d-fb63efccbbe7",
+    "installed_at": "2024-09-14 16:27:01.627784",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "a59153f3-4a51-46f0-994e-71835a1f6660",
+    "installed_at": "2024-09-14 07:21:58.861844",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "e962d281-abd1-4458-b8ec-9d77edeb333d",
+    "installed_at": "2024-09-14 15:33:14.185199",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "779c0967-8521-4ce0-8469-090c43920d7a",
+    "installed_at": "2024-09-14 02:25:28.136602",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "c1bf3117-8e79-4752-926b-f716640e1687",
+    "installed_at": "2024-09-14 20:16:06.639812",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "c1b484d5-1f21-496d-9cb5-dcd8ba838064",
+    "installed_at": "2024-09-14 22:07:37.117462",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "14550b58-68e8-4ef7-86e5-2ac1c07d1a5b",
+    "installed_at": "2024-09-14 05:14:44.150277",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "23b708ef-a6b8-4cb0-82d2-39b11db746a9",
+    "installed_at": "2024-09-14 06:29:46.028058",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "6acb66a1-eb46-4754-b9d5-f594144bf169",
+    "installed_at": "2024-09-14 09:09:40.240217",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "2f09d6c3-44ee-442d-917b-712b38e0076c",
+    "installed_at": "2024-09-14 23:30:44.722287",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "bb35e12e-2949-4467-9a67-a9383a610ce9",
+    "installed_at": "2024-09-14 06:16:47.714342",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "045ac0ce-37c6-41f2-a02a-c0bbbcece533",
+    "installed_at": "2024-09-14 02:37:35.673515",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "b83e520f-b2cb-4d49-9827-4c57a6578cf4",
+    "installed_at": "2024-09-14 00:10:32.855039",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "a277781f-d1fa-4c05-9bb2-9233c129c3f6",
+    "installed_at": "2024-09-14 08:36:18.472545",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "379bd357-5e93-435b-88df-246ad7de8875",
+    "installed_at": "2024-09-14 07:27:27.166162",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "531b3885-ec09-4dd4-b30b-6a80130acfaa",
+    "installed_at": "2024-09-14 14:11:55.022580",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "9f437367-a2cb-433d-93a9-6ad32bc707ea",
+    "installed_at": "2024-09-14 20:42:43.390269",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "802db214-8b2d-4e4f-ad43-959c6f1f55ec",
+    "installed_at": "2024-09-14 13:31:23.169530",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "66bb7575-b306-4816-a373-6417682a827d",
+    "installed_at": "2024-09-14 21:05:25.353028",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "ec6cc1cd-80f9-44cc-94ca-200af982a84f",
+    "installed_at": "2024-09-14 03:31:07.898739",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "8917335d-6260-4a4b-9220-45511fb93faf",
+    "installed_at": "2024-09-14 12:54:15.008606",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "2c6a103b-09e9-4942-94a2-2e1871052886",
+    "installed_at": "2024-09-14 16:13:16.911321",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "13c35d80-faad-446c-9260-a87a944ae5bf",
+    "installed_at": "2024-09-14 01:26:26.468335",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "6232e21e-3688-4b71-a34c-d3e2127b7912",
+    "installed_at": "2024-09-14 03:55:22.504504",
+    "network_name": "Mintegral",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "b0090ef5-11ec-4577-ab51-6cf78a10df98",
+    "installed_at": "2024-09-14 13:07:09.829731",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "b7ed83b7-65e7-496d-a05c-07d29f87a204",
+    "installed_at": "2024-09-14 11:49:13.580962",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "3f792c5d-2761-4ebc-b870-0ddabde68f01",
+    "installed_at": "2024-09-14 17:11:31.654768",
+    "network_name": "AppLovin",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "761197ae-d52a-4092-b4b9-2121e64f5de4",
+    "installed_at": "2024-09-14 13:22:13.175950",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "f0c6355e-4604-4775-8f0e-47714fce6982",
+    "installed_at": "2024-09-14 06:05:49.702105",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "990a2f92-291d-4f10-ace9-67d899f98543",
+    "installed_at": "2024-09-14 11:04:03.390054",
+    "network_name": "TikTok",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "a71e20c0-374f-402d-bd7b-13db233a7fe7",
+    "installed_at": "2024-09-14 10:54:12.732769",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "9164eae8-dbef-4304-8400-7bf9d9fddae9",
+    "installed_at": "2024-09-14 11:02:37.883200",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "3eefa89b-ae1b-4eaa-bf36-68f6fcc772f3",
+    "installed_at": "2024-09-14 03:09:58.421769",
+    "network_name": "ACME Installs",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "6725f041-94de-4aa8-ba8b-c663b85fcc40",
+    "installed_at": "2024-09-14 01:57:22.230744",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "0e02acc4-110f-44dc-ba08-25fc1bfbf450",
+    "installed_at": "2024-09-14 15:42:55.885662",
+    "network_name": "Google",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "240a6e11-7479-46ad-9359-e9c51c0a5a74",
+    "installed_at": "2024-09-14 09:32:54.837066",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "9ce69299-6d69-45e7-900c-560210b492e8",
+    "installed_at": "2024-09-14 10:04:52.655661",
+    "network_name": "Vungle",
+    "campaign_name": "Campaign_1"
+  },
+  {
+    "user_id": "2828b324-f7b4-496a-bbad-376348e63b2f",
+    "installed_at": "2024-09-14 15:17:24.996019",
+    "network_name": "Unity",
+    "campaign_name": "Campaign_2"
+  },
+  {
+    "user_id": "3897e7e8-1caf-4c84-ad3d-261c6c929280",
+    "installed_at": "2024-09-14 20:16:27.029078",
+    "network_name": "ironSrc",
+    "campaign_name": "Campaign_2"
   }
 ]
