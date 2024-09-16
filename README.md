@@ -14,15 +14,17 @@ From here we can see the common dimensions.
 
 - Then we can aggregate using install_date, network_name, campaign_name and get the KPI's given in the Example-1 Table in Case Study pdf.
 
-# Detailed ETL Process
+### Notes
 
-- Note: For this test case considering the data size and ease of use I have used Python and pandas for the computing of intermediate dataframes/tables within Airflow DAG but it is not the best practive to use Airflow DAG's for computing instead using external computing is the best like spark/bigquery/postgres.
+-  For this test case considering the data size and ease of use I have used Python and pandas for the computing of intermediate dataframes/tables within Airflow DAG but it is not the best practive to use Airflow DAG's for computing instead using external computing is the best like spark/bigquery/postgres.
 
 - In order to run the in Aİrflow DAG there are 2 requirements:
 
-*  You need requests and pandas libraries installed on the Airflow. If you are using Docker you can install requirements.txt using Dockerfile. 
-*  If you are running airflow within a container have '/output' folder available for final and intermediate tables. 
-*  For the '/output' folder, I have attached local volume to the container using volumes section inside docker-compose file like "- ./output:/output"
+1.  You need requests and pandas libraries installed on the Airflow. If you are using Docker you can install requirements.txt using Dockerfile. 
+2.  If you are running airflow within a container have '/output' folder available for final and intermediate tables. For the '/output' folder, I have attached local volume to the container using volumes section inside docker-compose file like "- ./output:/output"
+  
+   
+# Detailed ETL Process
 
 1. fetch installs events and cost data from the API
 
