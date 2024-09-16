@@ -130,10 +130,11 @@ def create_final_table():
     cost_df = pd.read_csv(PATH_TO_COSTS_PROCESSED)
 
     final_df = grouped_df.merge(cost_df, left_on=['installed_date', 'network_name', 'campaign_name'], right_on=['date', 'network_name', 'campaign_name'], how='left')
+    final_df = final_df.merge(install_grouped_df, on=['installed_date', 'network_name', 'campaign_name'], how='left')
 
-    final_table = final_df[['installed_date', 'network_name', 'campaign_name', 'cost', 'game_start_count', 'banner_revenue', 'interstitial_revenue', 'rewarded_revenue']]
+    final_table = final_df[['installed_date', 'network_name', 'campaign_name', 'install_count', 'cost', 'game_start_count', 'banner_revenue', 'interstitial_revenue', 'rewarded_revenue']]
     final_table['cost'] = final_table['cost'].fillna(0)
-    
+    final_table['install_count'] = final_table['install_count'].fillna(0)
     # Save the final table to CSV
     final_table.to_csv('/output/final_table.csv', index=False)
 
