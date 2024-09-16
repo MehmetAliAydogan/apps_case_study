@@ -18,7 +18,9 @@ From here we can see the common dimensions.
 
 -  For this test case considering the data size and ease of use I have used Python and pandas for the computing of intermediate dataframes/tables within Airflow DAG but it is not the best practive to use Airflow DAG's for computing instead using external computing is the best like spark/bigquery/postgres.
 
-- In order to run the in Aİrflow DAG there are 2 requirements:
+- For the SQL queries that can be used to generate intermediate and final table. I have added a sql folder inside you can find the sql queries that is equivalent of pandas operations I did. (Assuming you have loaded installs-events-cost data to tables with respective names under a dataset called 'example')
+
+- In order to run the in Airflow DAG there are 2 requirements:
 
 1.  You need requests and pandas libraries installed on the Airflow. If you are using Docker you can install requirements.txt using Dockerfile. 
 2.  If you are running airflow within a container have '/output' folder available for final and intermediate tables. For the '/output' folder, I have attached local volume to the container using volumes section inside docker-compose file like "- ./output:/output"
